@@ -1,6 +1,6 @@
 # Glamorous Gladiators
 
-Fighting for glory, honor, or revenge, and doing it in style.
+A distortion dice game of unusual warriors fighting for glory, vengeance, honor, or justice, and looking good doing it.
 
 **Stats** 
 - Force - Strength and Toughness

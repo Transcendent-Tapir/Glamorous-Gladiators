@@ -22,9 +22,9 @@ A distortion dice game of unusual warriors fighting for glory, vengeance, honor,
 - Your Signature Tool (grappling hook, spellbook, blade oils, lockpicks, tome of world history, collapsible telescope)
 - various temporary assets such as potions, rations, rope, etc (pick 2 after each resupply)
 
-**Additional trait, special techniques** - special fighting techniques that can be used under certain conditions OR by spending inspiration
+**Additional trait: Special Techniques** - special fighting techniques that can be used under certain conditions OR by spending inspiration
 
-Your fighting style aspect is used only when you are able to fight in your ideal conditions. If you have to change tactics or fight in unusual conditions, you must spend inspiration to use it. Special techniques can be magic spells, power ups, complex movements, enhanced attacks, etc. Notably they can allow you to attack outside of your normal range with your full weapon die.
+Your fighting style aspect is used only when you are able to fight in your ideal conditions. If you have to change tactics or fight in unusual conditions, you must spend Spark to use it. Special techniques can be magic spells, power ups, complex movements, enhanced attacks, etc. Notably they can allow you to attack outside of your normal range with your full weapon die.
 
 Inspiration and Advancement will be Spark and Stride
 
@@ -43,16 +43,20 @@ Scenarios:
 
 Types of Powers:
 - Physically altered bodies
- - Monstrous
- - Mechanical
- - Enchanted (physically more powerful, elemental effects, etc)
- - Shapeshifting (stretching, squashing, growing, shrinking, etc)
+  - Monstrous
+  - Mechanical
+  - Enchanted (physically more powerful, elemental effects, etc)
+  - Shapeshifting (stretching, squashing, growing, shrinking, etc)
 - Manifestations of the soul
- - Energy weapons
- - Beings with tremendous power
+  - Energy weapons
+  - Beings with tremendous power
 - Elemental control (fire, air, water, etc)
 - Physics manipulation (time, space, gravity, etc)
 - Manipulation of senses or emotions 
+- Magically enhancing your allies
+- Copying the ablities of animals
+- Strange bodily secretions
+- Writing/Art that can alter reality
 
 4 weapon ranges: close/melee, reach, projectile, long(sniper)
 

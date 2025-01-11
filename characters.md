@@ -80,3 +80,20 @@ Some conditions for activating a special technique might be:
 - When your opponent has a range disadvantage on you
 
 Be sure to tie your special techniques to your glam. If you like to use range and remain untoched, a special technique to retreat while attacking could be useful. Or if your glamor is related to strength, the ability to take a large hit and keep going would be thematic.
+
+Types of Powers to inspire your glam or special techniques:
+- Physically altered bodies
+  - Monstrous (Beastial form, extra limbs, spikes with psychedelic venom)
+  - Mechanical (gun-arm, robo-eyes, chainsaw-kicks)
+  - Enchanted (physically more powerful, elemental effects, glowing etc)
+  - Shapeshifting (stretching, squashing, growing, shrinking, etc)
+- Manifestations of the soul
+  - Energy weapons (Ki blasts, summoned sword, cursed footprints)
+  - Spritual beings(Channeling ancestral spirits, summoning spirit allies, projecting your spirit outside of your body)
+- Elemental control (fire, air, water, electricity, etc)
+- Physics manipulation (time, space, gravity, etc)
+- Manipulation of senses or emotions (Make someone to sad or empathetic to fight, Create disctrations with auditory or visual illusions)
+- Magically enhancing your allies (Enhance the force of their attacks, the speed of their movement, or their natural armor)
+- Copying the ablities of animals (Polar bear strength, Falcom speed, spider monkey agility)
+- Strange bodily secretions (Hot wax, sticky sweat, acidic blood)
+- Writing/Art that can alter reality (tattoos, paintings, blessed macrame)

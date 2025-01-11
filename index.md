@@ -23,23 +23,14 @@ Scenarios:
 - A corrupting evil force has descended upon a once peaceful land, and you answer the call to fight it
 - In a dangerous land where people live in protected settlements, you are a team that leaves to gather supplies and trade with other cities
 
-Types of Powers:
-- Physically altered bodies
-  - Monstrous
-  - Mechanical
-  - Enchanted (physically more powerful, elemental effects, etc)
-  - Shapeshifting (stretching, squashing, growing, shrinking, etc)
-- Manifestations of the soul
-  - Energy weapons
-  - Beings with tremendous power
-- Elemental control (fire, air, water, etc)
-- Physics manipulation (time, space, gravity, etc)
-- Manipulation of senses or emotions 
-- Magically enhancing your allies
-- Copying the ablities of animals
-- Strange bodily secretions
-- Writing/Art that can alter reality
-
 4 weapon ranges: close/melee, reach, projectile, long(sniper)
 
-Each weapon has a preferred range (sometimes multiple). Attacking from that range grants you the full asset die. For each band outside of the weapons preferred range, the die is lowered by one, down to a minimum of d4. Most weapons cannot be used for a ranger longer than their preferred range.
+Each weapon has a preferred range (sometimes multiple). Attacking from that range grants you the full asset die. For each band outside of the weapons preferred range, the die is lowered by one, down to a minimum of d4. Most weapons cannot be used to attack at a range longer than their preferred range.
+
+If someone is engaged with you in combat, and they are not in your range, you have to make a roll to approach them. To help with this, you may have special techniques, you may use scene assets that act as cover or give you unusual movement options, and you can also create an asset for yourself or an ally to use as a distraction or to help them move more quickly.
+
+Rough guide to ranges:
+- Close: fist fighting range
+- Reach: Spear or two handed sword range
+- Projectile: Thrown weapons, some flexible weapons like a meteor hammer
+- Long: Crossbow or Sniper Rifle range

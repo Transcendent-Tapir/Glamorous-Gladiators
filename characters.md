@@ -49,7 +49,8 @@ Aspects help define your character, you start with 3 aspects, one at a d8 and 2 
 
 **Additional trait: Special Techniques** - special fighting techniques that can be used under certain conditions OR by spending Spark.
 
-Special techniques relate to what your fighting style is and what weapon you wield.
+Special techniques relate to what your fighting style is and what weapon you wield. You can start with one special technique at a d8, or with 2 special techniques rated d4 and d6.
+
 Some things that special techniques can allow you to do:
 
 - Move more quickly or more stealthily

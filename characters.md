@@ -22,8 +22,8 @@ Characters are made up of 4 stats, that define the ways that you can approach an
 Distribution | Dice
 :-:          | :-:
 Generalist   | d8,d6,d6,d6
-Adept        | d10,d8,d6,d4
-Specialist   | d10,d10,d4,d4
+Adept        | d8,d8,d6,d4
+Specialist   | d10,d6,d6,d4
 
 - Force - Strength and Toughness
 - Focus - Analytical Skills and Intellect
@@ -38,14 +38,20 @@ Aspects help define your character, you start with 3 aspects, one at a d8 and 2 
 - Background (inventive alchemist, street-wise pickpocket, disgraced knight, lovesick hunter)
 - Your reason for fighting (to learn more about the world, to avenge someone you love, to find a purpose in life, to be the best there is)
 
+Rate one aspect at a d8 and the others at a d6.
+
 **Negative aspects** - A regret you have, a weakness in your technique
 - An insecurity (someone you couldn't save, someone you pushed away, a goal that slipped from your grasp, something that you left unsaid, a strange habit, your guilty pleasure, something you wish you were good at)
 - A weakness in your technique (tunnel vision, overwhelmed in melee, easily distracted, an old injury slows you down)
+
+Rate one negative aspect at a d8 and the other at a d6
 
 **Assets** 
 - Your Signature Weapon (sword, throwing stars, frying pan, lance, ballista, dancing shoes, these hands)
 - Your Signature Tool (grappling hook, spellbook, blade oils, lockpicks, tome of world history, collapsible telescope)
 - various temporary assets such as potions, rations, rope, etc (pick 2 after each resupply)
+
+Rate one of your signature assets at a d8, and the other at a d6. Temporary assets are always rated at d6.
 
 **Additional trait: Special Techniques** - special fighting techniques that can be used under certain conditions OR by spending Spark.
 

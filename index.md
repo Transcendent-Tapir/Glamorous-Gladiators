@@ -30,7 +30,7 @@ Each weapon has a preferred range (sometimes multiple). Attacking from that rang
 If someone is engaged with you in combat, and they are not in your range, you have to make a roll to approach them. To help with this, you may have special techniques, you may use scene assets that act as cover or give you unusual movement options, and you can also create an asset for yourself or an ally to use as a distraction or to help them move more quickly.
 
 Rough guide to ranges:
-- Close: fist fighting range
-- Reach: Spear or two handed sword range
-- Projectile: Thrown weapons, some flexible weapons like a meteor hammer
-- Long: Crossbow or Sniper Rifle range
+- Close: fist fighting range. Right next to your opponent
+- Reach: Spear or two handed sword range. A few steps from your opponenet
+- Projectile: Thrown weapons, meteor hammer, or shotgun range. Across the room from your opponent
+- Long: Crossbow or Sniper Rifle range. Down the street or further from your opponent

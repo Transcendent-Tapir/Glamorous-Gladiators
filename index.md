@@ -6,6 +6,11 @@ See the [Character Page](characters) for character creation rules.
 
 As a distortion dice game, you take an action by first selecting a stat and adding the relevant die to your pool, while the GM adds the associated harm die to their pool. Then each of you add in relevant aspects and assets to increase your odds, and spend Spark for a temporary boost if you want. Then both you and the GM roll your dice pools and keep the highest die. If your die is higher, that's a success, if you win by 5 or more that's a critical success, if you tie that's a success with consequences, and if your dice is lower you lose. A loss means taking harm, which means that your harm track goes up, or your asset gets damaged and the die is lowered.
 
+- Force: Used when your Gladiator needs brute strength or is using a very direct approach
+- Focus: Used to figure out complex situations, or when you want to apply knowledge that would help you
+- Finesse: Used when you need precision or speed. 
+- Fire: Used when your character needs great willpower or determination, like channling unknown magic or rushing through a flurry of illusionary attacks.
+
 Your fighting style aspect is used only when you are able to fight in your ideal conditions. If you have to change tactics or fight in unusual conditions, you must spend Spark to use it. Special techniques can be magic spells, power ups, complex movements, enhanced attacks, etc. Notably they can allow you to attack outside of your normal range with your full weapon die.
 
 Inspiration and Advancement will be Spark and Stride

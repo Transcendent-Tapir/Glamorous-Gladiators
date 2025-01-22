@@ -26,9 +26,13 @@ Adept        | d8,d8,d6,d4
 Specialist   | d10,d6,d6,d4
 
 - Force - Strength and Toughness
+  - Harm: Strained?
 - Focus - Analytical Skills and Intellect
+  - Harm: Scattered?
 - Finesse - Fast and precise movement
-- Fire - Sheer determination
+  - Harm: Sluggish?
+~~- Fire - Sheer determination (possibly unnecessary?)~~
+  ~~- Harm: Spineless?~~
 
 **Aspects** 
 

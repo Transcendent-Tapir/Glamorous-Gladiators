@@ -21,9 +21,9 @@ Characters are made up of 4 stats, that define the ways that you can approach an
 
 Distribution | Dice
 :-:          | :-:
-Generalist   | d8,d6,d6,d6
-Adept        | d8,d8,d6,d4
-Specialist   | d10,d6,d6,d4
+Generalist   | d8,d6,d6 
+Adept        | d8,d8,d4 
+Specialist   | d10,d6,d4
 
 - Force - Strength and Toughness
   - Harm: Strained?
@@ -31,12 +31,12 @@ Specialist   | d10,d6,d6,d4
   - Harm: Scattered?
 - Finesse - Fast and precise movement
   - Harm: Sluggish?
-~~- Fire - Sheer determination (possibly unnecessary?)~~
-  ~~- Harm: Spineless?~~
+- ~~Fire - Sheer determination~~
+  - ~~Harm: Spineless?~~
 
 **Aspects** 
 
-Aspects help define your character, you start with 3 aspects, one at a d8 and 2 at a d6
+Aspects help define your character, you start with 3 aspects
 
 - Your fighting style (Aggressive Brawler, Efficient Duelist, Cocky Ranged Specialist, Cool headed Shield user)
 - Background (inventive alchemist, street-wise pickpocket, disgraced knight, lovesick hunter)
@@ -52,25 +52,27 @@ Rate one negative aspect at a d8 and the other at a d6
 
 **Assets** 
 - Your Signature Weapon (sword, throwing stars, frying pan, lance, ballista, dancing shoes, these hands)
-- Your Signature Tool (grappling hook, spellbook, blade oils, lockpicks, tome of world history, collapsible telescope)
+- Your Signature Tool (grappling hook, spellbook, blade oils, lockpicks, tome of world history, collapsible telescope, medicinal herbs)
 - various temporary assets such as potions, rations, rope, etc (pick 2 after each resupply)
 
-Rate one of your signature assets at a d8, and the other at a d6. Temporary assets are always rated at d6.
+Rate one of your signature assets at a d8, and the other at a d6. Temporary assets are always rated at d6. Temporary Assets are only usable for 1 scene.
 
 **Additional trait: Special Techniques** - special fighting techniques that can be used under certain conditions OR by spending Spark.
 
 Special techniques relate to what your fighting style is and what weapon you wield. You can start with one special technique at a d8, or with 2 special techniques rated d4 and d6.
 
+Special techniques are lowered by one die size after use. Special techniques below a d4 are unusable. Spending Spark to activate a special technique always uses the full die size.
+
 Some things that special techniques can allow you to do:
 
-- Move more quickly or more stealthily
-- Attack from a non-optimal range
-- Attack more effectively
-- Apply specialized effects or damage with attacks
-- Disable an opponent
-- More effectively defend yourself or others
-- Motivate, heal, or energize yourself or others
-- Create assets like decoys, walls, or traps
+- Move more quickly or more stealthily (e.g. ninja step, usable when in darkness or obscuered by smoke)
+- Attack from a non-optimal range (e.g. heavenly slash, usable when using a close weapon in reach or projectile range)
+- Attack more effectively (e.g. gatling gut punch, use in close range)
+- Apply specialized effects or damage with attacks (e.g. Phoenix Strike applies the Burning condition)
+- Disable an opponent (e.g. Medusa's stare applies the "Flesh to stone" condition)
+- More effectively defend yourself or others (e.g. Impossible Reflexes is used to deflect attacks from outside of your range)
+- Motivate, heal, or energize yourself or others (e.g. Inspiring Chant boosts allies attacks)
+- Create assets like decoys, walls, or traps (e.g. Illusory Assailants creates an illusion asset that charges at opponents)
 
 All of these things take the form of adding more dice to your pool, raising a die in your pool, creating scene assets for anyone to use, dealing harm to enemies, or creating conditions on enemies. 
 

@@ -9,10 +9,10 @@ const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 jtd.addEvent(toggleDarkMode, 'click', function(){
   if (jtd.getTheme() === 'dark') {
     jtd.setTheme('light');
-    toggleDarkMode.textContent = '&#127769;';
+    toggleDarkMode.textContent = '/u263C';
   } else {
     jtd.setTheme('dark');
-    toggleDarkMode.textContent = '&#9788;';
+    toggleDarkMode.textContent = '/uDF19';
   }
 });
 </script>

@@ -1,20 +1,8 @@
 ---
 title: Glamorous Gladiators
+nav_order: 1
 ---
-<button class="btn js-toggle-dark-mode">&#127769;</button>
-
 <script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = '/u263C';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = '/uDF19';
-  }
-});
 if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
     jtd.setTheme('dark')
 }

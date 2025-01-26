@@ -1,3 +1,5 @@
+jtd.setTheme("foo")
+
 # Glamorous Gladiators
 
 A distortion dice game of unusual warriors fighting for glory, vengeance, honor, or justice, and looking good doing it.

@@ -1,3 +1,4 @@
+<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 <script>
 const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 
@@ -10,6 +11,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
     toggleDarkMode.textContent = 'Switch to Light Mode';
   }
 });
+</script>
 
 # Glamorous Gladiators
 

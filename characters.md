@@ -1,3 +1,16 @@
+<script>
+const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+
+jtd.addEvent(toggleDarkMode, 'click', function(){
+  if (jtd.getTheme() === 'dark') {
+    jtd.setTheme('light');
+    toggleDarkMode.textContent = 'Switch to Dark Mode';
+  } else {
+    jtd.setTheme('dark');
+    toggleDarkMode.textContent = 'Switch to Light Mode';
+  }
+});
+
 Characters in Glamorous Gladiators are naturally called Gladiators. These are people that live to fight, or fight to level. They generally have immense power, and won't hesitate to use violence. 
 
 **Glam**

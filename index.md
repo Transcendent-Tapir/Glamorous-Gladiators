@@ -15,6 +15,9 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
     toggleDarkMode.textContent = '/uDF19';
   }
 });
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
 </script>
 
 # Glamorous Gladiators

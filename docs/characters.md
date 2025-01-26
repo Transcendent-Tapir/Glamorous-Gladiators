@@ -1,14 +1,18 @@
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+---
+title: Characters
+---
+<button class="btn js-toggle-dark-mode">&#127769;</button>
+
 <script>
 const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 
 jtd.addEvent(toggleDarkMode, 'click', function(){
   if (jtd.getTheme() === 'dark') {
     jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Switch to Dark Mode';
+    toggleDarkMode.textContent = '&#127769;';
   } else {
     jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Switch to Light Mode';
+    toggleDarkMode.textContent = '&#9788;';
   }
 });
 </script>

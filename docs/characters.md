@@ -54,7 +54,8 @@ Aspects help define your character, you start with 3 aspects
 
 Rate one aspect at a d8 and the others at a d6.
 
-**Negative aspects** - A regret you have, a weakness in your technique
+**Scars** - A regret you have, a weakness in your technique
+Scars are negative aspects that tell the story of your past failures. They can be mental, emotional, or physical.
 - An insecurity (someone you couldn't save, someone you pushed away, a goal that slipped from your grasp, something that you left unsaid, a strange habit, your guilty pleasure, something you wish you were good at)
 - A weakness in your technique (tunnel vision, overwhelmed in melee, easily distracted, an old injury slows you down)
 

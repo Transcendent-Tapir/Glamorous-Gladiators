@@ -120,3 +120,9 @@ Types of Powers to inspire your glam or special techniques:
 - Copying the ablities of animals (Polar bear strength, Falcom speed, spider monkey agility)
 - Strange bodily secretions (Hot wax, sticky sweat, acidic blood)
 - Writing/Art that can alter reality (tattoos, paintings, blessed macrame)
+
+Potential names for Styles/Powers:
+- Double Trouble (creating clones or illusions of yourself)
+- Qi Strike (charging up a single strike with powerful energies)
+- Everything is a weapon (specialized in being able to utilize the environment and improvised weapons)
+- I am but a vessel (Channeling a greater power from the elements or a god that you worship)

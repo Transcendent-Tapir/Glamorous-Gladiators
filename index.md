@@ -56,16 +56,17 @@ Scenarios:
 - A corrupting evil force has descended upon a once peaceful land, and you answer the call to fight it
 - In a dangerous land where people live in protected settlements, you are a team that leaves to gather supplies and trade with other cities
 
-4 weapon ranges: close/melee, reach, projectile, long(sniper)
+~~4 weapon ranges: close/melee, reach, projectile, long(sniper)
 
 Each weapon has a preferred range (sometimes multiple). Attacking from that range grants you the full asset die. For each band outside of the weapons preferred range, the die is lowered by one, down to a minimum of d4. Most weapons cannot be used to attack at a range longer than their preferred range.
 
-If someone is engaged with you in combat, and they are not in your range, you have to make a roll to approach them. To help with this, you may have special techniques, you may use scene assets that act as cover or give you unusual movement options, and you can also create an asset for yourself or an ally to use as a distraction or to help them move more quickly.
+If someone is engaged with you in combat, and they are not in your range, you have to make a roll to approach them. To help with this, you may have special techniques, you may use scene assets that act as cover or give you unusual movement options, and you can also create an asset for yourself or an ally to use as a distraction or to help them move more quickly.~~
+
+Combat is broken up into zones, and weapons have ranges that tell you how many zones away you can attack from. Some weapons or special techniques allow you to attack from a further range. You can always defend regarldess of distance. For every zone outside of your weapons preferred range, you lower your weapon die unless a special technique would dictate otherwise.
 
 Rough guide to ranges:
-- Close: fist fighting range. Right next to your opponent
-- Reach: Spear or two handed sword range. A few steps from your opponenet
-- Projectile: Thrown weapons, meteor hammer, or shotgun range. Across the room from your opponent
-- Long: Crossbow or Sniper Rifle range. Down the street or further from your opponent
+- Close: Melee weapon range. In the same zone as your opponent. In Close Range you can attack even if the opponent has full cover.
+- Near: Short projectile weapons, thrown weapons, and some flexible weapons. In the zone next to your opponent
+- Long: Crossbow or Sniper Rifle range. Two or Three zones away, but with line of sight.
 
 Weapons are upgraded through working with a weaponsmith or being rewarded with a new weapon. This also allows for magical upgrades that work akin to special techniques. These special upgrades are tied to the weapon and will be lost if the weapon is lost.

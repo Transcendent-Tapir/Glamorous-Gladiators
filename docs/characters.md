@@ -127,3 +127,6 @@ Potential names for Styles/Powers:
 - Qi Strike (charging up a single strike with powerful energies)
 - Everything is a weapon (specialized in being able to utilize the environment and improvised weapons)
 - I am but a vessel (Channeling a greater power from the elements or a god that you worship)
+- Absolute Mastery (Specializing in a singular weapon with mostly "mundane" abilities)
+- Marked for greatness (Using marks such as runes, tattoos, or painted symbols to produce powerful effects)
+- Adapt. Evolve. Overcome (Altering your body with magic or technology to empower yourself)

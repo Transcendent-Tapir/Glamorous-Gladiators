@@ -27,7 +27,7 @@ Some options for Glam might include:
 
 **Stats** 
 
-Characters are made up of 4 stats, that define the ways that you can approach any challenge. Choose your distribution and assign the dice to your 4 stats
+Characters are made up of 3 stats, that define the ways that you can approach any challenge. Choose your distribution and assign the dice to your 4 stats
 
 Distribution | Dice
 :-:          | :-:
@@ -44,31 +44,31 @@ Specialist   | d10,d6,d4
 - ~~Fire - Sheer determination~~
   - ~~Harm: Spineless?~~
 
-**Aspects** 
+**Strengths** 
 
-Aspects help define your character, you start with 3 aspects
+Strengths are positive aspects that help define your character, you start with 3 Strengths
 
 - Your fighting style (Aggressive Brawler, Efficient Duelist, Cocky Ranged Specialist, Cool headed Shield user)
 - Background (inventive alchemist, street-wise pickpocket, disgraced knight, lovesick hunter)
 - Your reason for fighting (to learn more about the world, to avenge someone you love, to find a purpose in life, to be the best there is)
 
-Rate one aspect at a d8 and the others at a d6.
+Rate one Strength at a d8 and the others at a d6.
 
 **Scars** - A regret you have, a weakness in your technique
 Scars are negative aspects that tell the story of your past failures. They can be mental, emotional, or physical.
 - An insecurity (someone you couldn't save, someone you pushed away, a goal that slipped from your grasp, something that you left unsaid, a strange habit, your guilty pleasure, something you wish you were good at)
 - A weakness in your technique (tunnel vision, overwhelmed in melee, easily distracted, an old injury slows you down)
 
-Rate one negative aspect at a d8 and the other at a d6
+Rate one Scar at a d8 and the other at a d6
 
-**Assets** 
+**Supplies** 
 - Your Signature Weapon (sword, throwing stars, frying pan, lance, ballista, dancing shoes, these hands)
 - Your Signature Tool (grappling hook, spellbook, blade oils, lockpicks, tome of world history, collapsible telescope, medicinal herbs)
 - various temporary assets such as potions, rations, rope, etc (pick 2 after each resupply)
 
 Rate one of your signature assets at a d8, and the other at a d6. Temporary assets are always rated at d6. Temporary Assets are only usable for 1 scene.
 
-**Additional trait: Special Techniques** - special fighting techniques that can be used under certain conditions OR by spending Spark.
+**Additional trait: Special Techniques** - special fighting techniques that can be used under certain conditions OR by spending Spark, they should follow a theme of some kind.
 
 Special techniques relate to what your fighting style is and what weapon you wield. You can start with one special technique at a d8, or with 2 special techniques rated d4 and d6.
 
@@ -103,7 +103,7 @@ Some conditions for activating a special technique might be:
 - When your opponent has a range advantage on you
 - When your opponent has a range disadvantage on you
 
-Be sure to tie your special techniques to your glam. If you like to use range and remain untoched, a special technique to retreat while attacking could be useful. Or if your glamor is related to strength, the ability to take a large hit and keep going would be thematic.
+Be sure to tie your special techniques to your glam. If you like to use range and remain untoched, a special technique to retreat while attacking could be useful. Or if your glam is related to strength, the ability to take a large hit and keep going would be thematic.
 
 Types of Powers to inspire your glam or special techniques:
 - Physically altered bodies
@@ -130,3 +130,4 @@ Potential names for Styles/Powers:
 - Absolute Mastery (Specializing in a singular weapon with mostly "mundane" abilities)
 - Marked for greatness (Using marks such as runes, tattoos, or painted symbols to produce powerful effects)
 - Adapt. Evolve. Overcome (Altering your body with magic or technology to empower yourself)
+- Tortured Artist (Use an artform like sculpting, painting, drawing, or crochet to create field assets or capture enemies)

@@ -64,9 +64,13 @@ If someone is engaged with you in combat, and they are not in your range, you ha
 
 Combat is broken up into zones, and weapons have ranges that tell you how many zones away you can attack from. Some weapons or special techniques allow you to attack from a further range. You can always defend regarldess of distance. For every zone outside of your weapons preferred range, you lower your weapon die unless a special technique would dictate otherwise.
 
-Rough guide to ranges:
+~~Rough guide to ranges:
 - Close: Melee weapon range. In the same zone as your opponent. In Close Range you can attack even if the opponent has full cover.
 - Near: Short projectile weapons, thrown weapons, and some flexible weapons. In the zone next to your opponent
-- Long: Crossbow or Sniper Rifle range. Two or Three zones away, but with line of sight.
+- Long: Crossbow or Sniper Rifle range. Two or Three zones away, but with line of sight.~~
+
+Preferred Range is a number that describes the number of zones that a weapon should be used from. 0 is for enemies within the same zone.
+
+Zones are broken in whatever way makes the most sense for the fight. Often a zone will be the size of a small room. However, a fight on an airplane might have you breaking the cabin into multiple zones separated by 4 or so rows of seats. If you have a large battlefield, it might make more sense for a zone to be a small building, or relatively large areas between solid cover.
 
 Weapons are upgraded through working with a weaponsmith or being rewarded with a new weapon. This also allows for magical upgrades that work akin to special techniques. These special upgrades are tied to the weapon and will be lost if the weapon is lost.

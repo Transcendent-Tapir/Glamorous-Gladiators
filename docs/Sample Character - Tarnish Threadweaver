@@ -33,12 +33,12 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 - Signature Weapon - Giant Crochet Hook: d6 (range: 0)
 - Signature Tool - Abundant Spools of Yarn: d8
 - Herbal Salves d6
-- 
+- Dried fruit and jerky d6
 
 **Special Techniques - Tortured Artist**
-- Living Work of Art
+- Living Work of Art: d6
     - Trigger: when you land a hit on an enemy
     - Effect: Apply/increase restrained condition
-- In the Loop
+- In the Loop: d4
     - Trigger: When a target is 1+ zones away
     - Effect: Loop yarn around your target to move towards them

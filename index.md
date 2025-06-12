@@ -12,7 +12,7 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 
 A distortion dice game of unusual warriors fighting for glory, vengeance, honor, or justice, and looking good doing it.
 
-See the [Character Page](characters) for character creation rules.
+See the [Character Page](docs/characters) for character creation rules.
 
 As a distortion dice game, you take an action by first selecting a stat and adding the relevant die to your pool, while the GM adds the associated harm die to their pool. Then each of you add in relevant aspects and assets to increase your odds, and spend Spark for a temporary boost if you want. Then both you and the GM roll your dice pools and keep the highest die. If your die is higher, that's a success, if you win by 5 or more that's a critical success, if you tie that's a success with consequences, and if your dice is lower you lose. A loss means taking harm, which means that your harm track goes up, or your asset gets damaged and the die is lowered.
 

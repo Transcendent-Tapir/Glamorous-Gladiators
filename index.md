@@ -32,6 +32,7 @@ Your fighting style aspect is used only when you are able to fight in your ideal
 
 Inspiration and Advancement will be Spark and Stride
 You have a maximum of 5 spark. 5 spark can be traded for 1 stride
+Spark can be used to activate special techniques, use a strength that is not applicable, target a specific stress track on an opponent, or take advantage of an opponents scar.
 Stride allows you to upgrade your character
 
 Cost | Reward
@@ -71,6 +72,6 @@ Combat is broken up into zones, and weapons have ranges that tell you how many z
 
 Preferred Range is a number that describes the number of zones that a weapon should be used from. 0 is for enemies within the same zone.
 
-Zones are broken in whatever way makes the most sense for the fight. Often a zone will be the size of a small room. However, a fight on an airplane might have you breaking the cabin into multiple zones separated by 4 or so rows of seats. If you have a large battlefield, it might make more sense for a zone to be a small building, or relatively large areas between solid cover.
+Zones are broken in whatever way makes the most sense for the fight. Often a zone will be the size of a small room. However, a fight on an airplane might have you breaking the cabin into multiple zones separated by 4 or so rows of seats. If you have a large battlefield, it might make more sense for a zone to be a small building, or relatively large areas between solid cover. If you are in the same zone as an enemy, you must make a roll to leave. Special techniques that allow you to move to another zone bypass this when used successfully.
 
 Weapons are upgraded through working with a weaponsmith or being rewarded with a new weapon. This also allows for magical upgrades that work akin to special techniques. These special upgrades are tied to the weapon and will be lost if the weapon is lost.

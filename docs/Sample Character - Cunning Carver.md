@@ -56,7 +56,7 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 - Decoy Dismount
     - Description: Use a decoy to propel yourself by vaulting over it or jumping off of it
     - Trigger: Your target is 1+ zones away
-    - Effect: Grants a movement bonus
+    - Effect: Grants bonus to a move action
 - Decoy Disengage
     - Description: Move away from your target and leave a decoy behind
     - Trigger: Your target is in your zone

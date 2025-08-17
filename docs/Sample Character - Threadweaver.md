@@ -1,6 +1,6 @@
 ---
 title: Threadweaver
-nav_order: 3
+nav_order: 8
 parent: Characters
 ---
 <script>

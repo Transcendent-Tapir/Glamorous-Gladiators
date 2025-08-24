@@ -14,6 +14,8 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 
 **Pronouns:** He/They
 
+**Archetype:** The Deceptive
+
 **Glam:** Titular Trickery
 
 **Stats**

@@ -131,3 +131,13 @@ Potential names for Styles/Powers:
 - Marked for greatness (Using marks such as runes, tattoos, or painted symbols to produce powerful effects)
 - Adapt. Evolve. Overcome (Altering your body with magic or technology to empower yourself)
 - Tortured Artist (Use an artform like sculpting, painting, drawing, or crochet to create field assets or capture enemies)
+
+Archetypes:
+- The Disciplined: Eat. Breath. Fight. No gimmicks or tricks, just strength, skill, and determination
+- The Spectacle: All fights need to have some flair, use flashy moves, and unique takedowns to turn every battle into a show
+- The Monster: Alter your body to unleash its full potential
+- The Swarm: Summon an army that fights at your command
+- The Genius: Brains over Brawn. Everyone has a weakness, find your enemies and crush them with it
+- The Deceptive: Nothing is what it seems. Use shadows, decoys, smoke, and mirrors to get into your opponents head
+- The Inspiring: Bolster your allies and use coordinated attacks to take down your enemies
+- The Toxic: Winning quickly is no fun, slow and weaken your enemies, then wait for them to beg for your mercy

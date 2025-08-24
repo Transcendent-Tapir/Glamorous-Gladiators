@@ -14,6 +14,8 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 
 **Pronouns:** any
 
+**Archetype:** The Toxic?
+
 **Glam:** Expert Fiber Artistry
 
 **Stats**

@@ -8,11 +8,23 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 }
 </script>
 
-While you are free (and encouraged!) to create your own setting for Glamorous Gladiators, it comes with a default setting: A dark gunpowder fantasy world known as The Desolate Frontier. 
+While you are free (and encouraged!) to create your own setting for Glamorous Gladiators, it comes with a default setting: 
+A wondrous technomagical setting known as Moonen: The lonely peninsula. It contains a number of biomes, contains technology like engines and firearms, powered by both magic and familiar technology like steam engines and gunpowder.
+
+Moonen is a long curved peninsula, with mountains in the north and south. Much of the central is a vast forest, with the eastern coast having beautiful beaches. This is a realm of magic and adventure, with living dungeons, bustling cities, rural villages, beautiful islands, corrupt leaders, bandits, pirates, and monstrous beasts. Gladiators go out into the world seeking fame, fortune, power, and revenge.
+
+Notable Factions:
+- A pirate gang
+- Fiber collective: A guild consisting of the farmers and weavers that make clothing
+- The Highland Nobles: A royal family in the northern plateau
+- Dungeoneers Guild: A guild of those who explore and manage the magical dungeons
+- Merchants and Missives: A guild of letter carriers, merchants, and escorts.
+
+~~A dark gunpowder fantasy world known as The Desolate Frontier. 
 
 In The Desolate Frontier, magic is alive and well, and more dangerous than ever. People generally live in settlements the size of small cities, there are few well tread paths between them. The land is full of dangerous beasts and even deadlier bandits, gangs, and generally desperate people. The cities are kept relatively safe by high walls, and torches that burn a magic infused fuel to repel the beasts. Security is strict inside of them.
 
-The Gladiators venture beyond these walls looking for fame, fortune, power, or vengeance. They'll confront many powerful foes and explore the magical dungeons, which are more like living magical beings than abandoned human architecture.
+The Gladiators venture beyond these walls looking for fame, fortune, power, or vengeance. They'll confront many powerful foes and explore the magical dungeons, which are more like living magical beings than abandoned human architecture.~~
 
 Below is a guide to inspire if you decide to make your own world. For each row, roll a d4, select one, or simply let the options inspire you
 

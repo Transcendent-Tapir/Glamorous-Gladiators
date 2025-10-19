@@ -34,4 +34,6 @@ On each turn, you can do 2 actions. Actions include:
 - Use a Special Technique: Activate one of your special techniques if you meet the requirements or spend a Spark.
 - Tend to Wounds: Make a roll against a stress track to reduce it. The opposing pool is composed of your own Stress and the targeted Stress, your own Stress twice if you are tending your own wounds. Tend to Wounds can be attempted once per stress track each day.
 
-All actions can be done twice on the same turn, with the exception of Hold a Zone. If you would like to create two opportunities, add both potential Opportunities to the opposing pool and make a singular roll. This still counts as 2 actions.
+All actions can be done twice on the same turn, with the exception of Hold a Zone. If you would like to create two opportunities, add both potential Opportunities to the opposing pool and make a singular roll. This still counts as 2 actions. 
+
+At the end of your turn, you choose an ally or opponent who has not gone this round to go next.

@@ -11,12 +11,12 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 While you are free (and encouraged!) to create your own setting for Glamorous Gladiators, it comes with a default setting: 
 A wondrous technomagical setting known as Moonen: The lonely peninsula. It contains a number of biomes, contains technology like engines and firearms, powered by both magic and familiar technology like steam engines and gunpowder.
 
-Moonen is a long curved peninsula, with mountains in the north and south. Much of the central is a vast forest, with the eastern coast having beautiful beaches. In the eastern bay lies an uninhabited island. The northeast and southwest are home to smaller peninsulas and small island chains
+Moonen is a long curved peninsula, with mountains in the north and south. Much of the central is a vast forest, with the eastern coast having beautiful beaches. In the eastern bay lies an uninhabited island. The northeast and southwest are home to smaller peninsulas and small island chains To the north of the Plateau is a large lake known as the Great Sun Lake. To the east of the peninsula is Moon Island, an uninhabited wildland.
 
-This is a realm of magic and adventure, with living dungeons, bustling cities, rural villages, beautiful islands, corrupt leaders, bandits, pirates, and monstrous beasts. Gladiators go out into the world seeking fame, fortune, power, and revenge.
+This is a realm of magic and adventure, with living dungeons, bustling cities, rural villages, beautiful islands, corrupt leaders, bandits, pirates, and monstrous beasts. Gladiators go out into the world seeking fame, fortune, power, and revenge. 
 
 Notable Factions:
-- A pirate gang
+- The Silver Corsairs: A pirate fleet that controls much of the seas
 - Fiber collective: A guild consisting of the farmers and weavers that make clothing
 - The Highland Nobles: A royal family in the northern plateau
 - Dungeoneers Guild: A guild of those who explore and manage the magical dungeons

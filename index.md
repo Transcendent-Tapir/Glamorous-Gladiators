@@ -10,7 +10,9 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 
 # Glamorous Gladiators
 
-A Distortion Dice game of unusual warriors fighting for glory, vengeance, honor, or justice, and looking good doing it. How you fight, what your special abilities, are, what you're fighting for, insecurities, past trauma, and environmental hazards all play a role in determining who comes out on top. This game for 2 or more players has one player taking on the roll of Combat Director (CD) who controls the enemies, NPCS, and world. The rest of the players take on the role of a Gladiator, the main characters of the story you're telling.
+In the land of Mooreth, Gladiators take on quests that allow Sponsors to see their every move. Delve into the living dungeons, transport priceless artifacts, take out a rival lord, and do it all while putting on a good show.
+
+Glamorous Gladiators is a distortion dice game about adventurers for hire looking for fame, glory, or vengeance for 2 or more players, one plays the Glam Master, and the rest play Gladiators.
 
 
 

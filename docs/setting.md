@@ -23,17 +23,11 @@ Notable Factions:
 - The Silver Corsairs: A pirate fleet that controls much of the seas, contains a number of pirate lords
 - Fiber collective: A guild consisting of the farmers and weavers that make clothing
 - The Highland Nobles: A royal family in the northern plateau
-- Dungeoneers Guild: A guild of those who explore and manage the magical dungeons
+- Dungeoneers Guild: A nearly defunct guild of those who explore and manage the magical dungeons
 - Merchants and Missives: A guild of letter carriers, merchants, and escorts.
 - Gladiators Guild: A collection of Gladiators as well as those that manage the contracts and quest gems.
 
-## Quests
 
-The game is built around quests, which have sponsors. Sponsors go to the Gladiators Guild to get a Quest gem created, which a Gladiator can then pick up, and slot into their preferred jewelry. This gem serves as a contract for the quest and allows the Sponsor to observe their gladiator. Watch parties often form for large quests, and some Sponsors create quests purely for the show in order to get viewers. Most sponsors will be sovereigns, but sometimes a guild, a group of workers, or other individuals will sponsor a quest. 
-
-There are also illicit quests, which do not go through the guild. The gems are made through other means, and can contain unknown and unstable magic. These quests are generally more dangerous, they are taken by the desperate, stupid, and those addicted to danger. Sometimes the pay for an illicit quest is incredibly high, however most of the time the people taking on these quests are coerced into doing them through blackmail and debts.
-
-Sponsors also often provide the Supplies you will have on your Quest. Sometimes they will give you specific items, other times you will receive a certain amount of dice to assign as you wish, or it can be a mix of the two.
 
 
 Below is a guide to inspire if you decide to make your own world. For each row, roll a d4, select one, or simply let the options inspire you

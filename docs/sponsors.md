@@ -12,7 +12,9 @@ Quests will often have optional objectives with extra rewards. These objectives 
 
 Each Sponsor will offer unique rewards for each connection tier. Royal Sponsors tend to give material rewards, better weapons and armor, more equipment, and reluctant allies
 
-Royal sponsors will only offer equipment and allies for quests by that sponsor
+Royal sponsors will only offer equipment and allies for quests by that sponsor. Royal sponsors are more likely to offer competitive quests, where only the gladiator that returns with the desired item will be rewarded. Royal Sponors offer riches and fame.
 
 Community sponsors tend to offer lower rewards, but with the advantage that investing in one community doesn't take away from another, so you can more easily get the specific advantages that you need. 
 Community connections can also offer equipment and allies on quests from other communities, or your personal quest.
+
+Sometimes when a problem arises in an area, multiple quests will be offered to deal with it in different ways. A community quest might have you relocate a magical creature disrupting an area, where a royal sponsor would have you kill it.

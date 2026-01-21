@@ -48,8 +48,12 @@ Specialist   | d10,d6,d4
 
 Strengths are positive aspects that help define your character, you start with 3 Strengths
 
-- Your fighting style (Aggressive Brawler, Efficient Duelist, Cocky Ranged Specialist, Cool headed Shield user)
-- Background (inventive alchemist, street-wise pickpocket, disgraced knight, lovesick hunter)
+- Your fighting style (Aggressive Brawler, Efficient Duelist, Cocky Ranged Specialist, Cool headed Shield user) replace with Archetype/Glam
+- Background (+1 die size for each background element that's beneficial, -1 for each that is harmful) 
+  - Kin (Ram, Lizard, Bird, Orc, Gnome)
+  - Home (Steppes, Desert, Coast, Forest)
+  - Former Profession (Farmer, Alchemist, Con Artist, Fisherman, etc)
+  - Disposition (Aggressive, Cocky, Suave, Calculating, Passionate, etc)
 - Your reason for fighting (to learn more about the world, to avenge someone you love, to find a purpose in life, to be the best there is)
 
 Rate one Strength at a d8 and the others at a d6.
@@ -62,9 +66,11 @@ Scars are negative aspects that tell the story of your past failures. They can b
 Rate one Scar at a d8 and the other at a d6
 
 **Supplies** 
-- Your Signature Weapon (sword, throwing stars, frying pan, lance, ballista, dancing shoes, these hands)
-- Your Signature Tool (grappling hook, spellbook, blade oils, lockpicks, tome of world history, collapsible telescope, medicinal herbs)
-- various temporary assets such as potions, rations, rope, etc (pick 2 after each resupply)
+~~- Your Signature Weapon (sword, throwing stars, frying pan, lance, ballista, dancing shoes, these hands)~~
+~~- Your Signature Tool (grappling hook, spellbook, blade oils, lockpicks, tome of world history, collapsible telescope, medicinal herbs)~~
+- Your weapon
+- 
+- various temporary assets such as potions, rations, rope, etc (given by sponsor)
 
 Rate one of your signature assets at a d8, and the other at a d6. Temporary assets are always rated at d6. Temporary Assets are only usable for 1 scene.
 
@@ -132,12 +138,30 @@ Potential names for Styles/Powers:
 - Adapt. Evolve. Overcome (Altering your body with magic or technology to empower yourself)
 - Tortured Artist (Use an artform like sculpting, painting, drawing, or crochet to create field assets or capture enemies)
 
-Archetypes:
+Glam:
 - The Disciplined: Eat. Breath. Fight. No gimmicks or tricks, just strength, skill, and determination
 - The Spectacle: All fights need to have some flair, use flashy moves, and unique takedowns to turn every battle into a show
-- The Monster: Alter your body to unleash its full potential
+- The Monstrous: Alter your body to unleash its full potential
 - The Swarm: Summon an army that fights at your command
-- The Genius: Brains over Brawn. Everyone has a weakness, find your enemies and crush them with it
+- The Mastermind: Brains over Brawn. Everyone has a weakness, find your enemies and crush them with it
 - The Deceptive: Nothing is what it seems. Use shadows, decoys, smoke, and mirrors to get into your opponents head
 - The Inspiring: Bolster your allies and use coordinated attacks to take down your enemies
 - The Toxic: Winning quickly is no fun, slow and weaken your enemies, then wait for them to beg for your mercy
+
+Your glam is your fighting style, and also the reason people become your fans.
+
+Weapons:
+ - Staff
+  - A staff or spear, reach weapon
+ - Blade
+  - Sword, Dagger, or other short bladed weapon
+ - Bludgeon
+  - Hammer, club mace, or other short blunt weapon
+ - Hook
+  - Kusarigama, fishing pole, giant crochet hook, or other hooked weapon
+ - Inferno
+  - Torch, Lantern, Lighter, or innate source of fire
+ - Fist
+  - Brass Knuckles, Hand Wraps, Boxing Gloves, or your bare hands
+ - 
+Weapons come with 3 special techniques. 

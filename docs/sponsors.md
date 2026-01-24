@@ -43,7 +43,7 @@ D8   | Title   | Name      | Industry    | Demeanor
 7 | Viscount | Bones    | Weapons     | Gloomy
 8 | Lady    | Calyne    | Magic       | Callous
 
- ### Community Sponsor Representative
+### Community Sponsor Representative
 
  Roll on the table below to create a representative of a community sponsor
  
@@ -57,3 +57,7 @@ D8   | Title   | Name      | Industry    | Demeanor
  6  | Kelde     | Baker     | Forest Settlement | Surly
  7  | Guinemere | Smith     | Oasis Dwelling    | Empathetic
  8  | Xeloe     | Scholar   | University Researchers | Resentful
+
+ ## Personal Quest
+
+ Every Gladiator has a goal, a reason that they started fighting. This is their personal quest. While persuing your personal quest, you no longer have a Repuation, instead the die is replaced with Motivation. Your Motivation is the equivalent of a sponsor tier, but instead represents how close you are to accomplishing your goals. Your Motivation level can never be higher than the highest sponsor level. Royal sponsors will generally not grant you resources to persue your personal quest unless you do them a favor first.

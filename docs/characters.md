@@ -50,11 +50,12 @@ Strengths are positive aspects that help define your character, you start with 3
 
 - Your fighting style (Aggressive Brawler, Efficient Duelist, Cocky Ranged Specialist, Cool headed Shield user) replace with Archetype/Glam
 - Background (+1 die size for each background element that's beneficial, -1 for each that is harmful) 
-  - Kin (Ram, Lizard, Bird, Orc, Gnome)
+  - Kin (Ram, Lizard, Bird, elephant, beetle, fungal, plant)
   - Home (Steppes, Desert, Coast, Forest)
   - Former Profession (Farmer, Alchemist, Con Artist, Fisherman, etc)
   - Disposition (Aggressive, Cocky, Suave, Calculating, Passionate, etc)
-- Your reason for fighting (to learn more about the world, to avenge someone you love, to find a purpose in life, to be the best there is)
+- ~~Your reason for fighting (to learn more about the world, to avenge someone you love, to find a purpose in life, to be the best there is)~~
+- Your Reputation (based off your current quest & sponsor level, replaced with Motivation when persuing personal quest)
 
 Rate one Strength at a d8 and the others at a d6.
 

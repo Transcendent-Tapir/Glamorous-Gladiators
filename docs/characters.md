@@ -54,6 +54,7 @@ Strengths are positive aspects that help define your character, you start with 3
   - Home (Steppes, Desert, Coast, Forest)
   - Former Profession (Farmer, Alchemist, Con Artist, Fisherman, etc)
   - Disposition (Aggressive, Cocky, Suave, Calculating, Passionate, etc)
+  - Your Drive: Why you became a gladiator (to avenge someone, to save someone, to escape, to find a purpose, to become a protector)
 - ~~Your reason for fighting (to learn more about the world, to avenge someone you love, to find a purpose in life, to be the best there is)~~
 - Your Reputation (based off your current quest & sponsor level, replaced with Motivation when persuing personal quest)
 

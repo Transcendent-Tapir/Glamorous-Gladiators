@@ -2,7 +2,11 @@
 title: Quests and Sponsors
 nav_order: 7
 ---
-
+<script>
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    jtd.setTheme('dark')
+}
+</script>
 ## Quests
 
 The game is built around quests, which have sponsors. Sponsors go to the Gladiators Guild to get a Quest gem created, which a Gladiator can then pick up, and slot into their preferred jewelry. This gem serves as a contract for the quest and allows the Sponsor to observe their gladiator. Watch parties often form for large quests, and some Sponsors create quests purely for the show in order to get viewers. Most sponsors will be sovereigns, but sometimes a guild, a group of workers, or other individuals will sponsor a quest. 

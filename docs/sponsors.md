@@ -58,6 +58,6 @@ D8   | Title   | Name      | Industry    | Demeanor
  7  | Guinemere | Smith     | Oasis Dwelling    | Empathetic
  8  | Xeloe     | Scholar   | University Researchers | Resentful
 
- ## Personal Quest
+## Personal Quest
 
- Every Gladiator has a goal, a reason that they started fighting. This is their personal quest. While persuing your personal quest, you no longer have a Repuation, instead the die is replaced with Motivation. Your Motivation is the equivalent of a sponsor tier, but instead represents how close you are to accomplishing your goals. Your Motivation level can never be higher than the highest sponsor level. Royal sponsors will generally not grant you resources to persue your personal quest unless you do them a favor first.
+ Every Gladiator has a goal, a reason that they started fighting. This is their personal quest. While persuing your personal quest, you no longer have a Repuation, instead the die is replaced with Motivation. Your Motivation is the equivalent of a sponsor tier, but instead represents how close you are to accomplishing your goals. Your Motivation level can never be higher than the highest sponsor level. Royal sponsors will generally not grant you resources to persue your personal quest unless you do them a favor first. Once your personal quest is complete, this ends your characters story as a Gladiator. When this happens, they retire as a gladiator and can become something else, such as a community organizer, a small business owner, a student, a farmer, or an actress. This character is no longer playable, but can remain in the story as an NPC, and may even be the subject or sponsor of a quest.

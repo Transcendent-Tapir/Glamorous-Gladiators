@@ -149,8 +149,14 @@ Potential names for Styles/Powers:
 Glam:
 - The Disciplined: Eat. Breath. Fight. No gimmicks or tricks, just strength, skill, and determination
   - Enough Games! Clear any assets dX or lower in this zone
-  - Channeled Qi: Extend your range by 1 and gain a dX qi asset for this attack
+  - Qi Strike: Extend your range by 1 and gain a dX qi asset for this attack
+  - Deep Breathing: Ignore stress or a condition with die dX or lower until your next turn
+  - One with your weapon: Increase your weapon by one die level
 - The Spectacle: All fights need to have some flair, use flashy moves, and unique takedowns to turn every battle into a show
+  - This move is sponsored by: Increase the die size of any supply
+  - HYPE TRAIN: When you inflict stress, gain a dX asset. Asset loses one die size each turn. Expires when reduced beyond d4 or when you fail to inflict stress on your turn
+  - {name tbd}: Increase the die size of a scene asset
+  - Signature Finish: gain a bonus dX against enemy with stress die above dX or minion rated below dX
 - The Acrobat: Use expert mobility and dexterity to overwhelm your opponents
 - The Monstrous: Alter your body to unleash its full potential
 - The Swarm: Summon an army that fights at your command

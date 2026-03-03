@@ -48,10 +48,16 @@ Specialist   | d10,d6,d4
 
 Strengths are positive aspects that help define your character, you start with 3 Strengths
 
-- Your fighting style (Aggressive Brawler, Efficient Duelist, Cocky Ranged Specialist, Cool headed Shield user) replace with Archetype/Glam
+- ~~Your fighting style (Aggressive Brawler, Efficient Duelist, Cocky Ranged Specialist, Cool headed Shield user)~~ replace with Archetype/Glam
+- Kin (+1 die size for each kin element that's beneficial, -1 for each that is harmful)
+  - Elephant: Large, Leathery Skin, Tusks, Trunk
+  - Ram: Medium, Horns, Hooves, Powerful Legs
+  - Bird: Small, Feathers, Wings, Taloned Feet
+  - Beetle: Small, Exoskeleton, Adhesive Feet, Extra Limbs
+  - Wolf: Medium, Nose, Teeth, Thick Fur Coat
+  - Tree: Large, Tough Bark, Photosynthesizes, Roots
 - Background (+1 die size for each background element that's beneficial, -1 for each that is harmful) 
-  - Kin (Ram, Lizard, Bird, elephant, beetle, fungal, plant)
-  - Home (Steppes, Desert, Coast, Forest)
+    - Home (Steppes, Desert, Coast, Forest)
   - Former Profession (Farmer, Alchemist, Con Artist, Fisherman, etc)
   - Disposition (Aggressive, Cocky, Suave, Calculating, Passionate, etc)
   - Your Drive: Why you became a gladiator (to avenge someone, to save someone, to escape, to find a purpose, to become a protector)
@@ -63,7 +69,7 @@ Rate one Strength at a d8 and the others at a d6.
 **Scars** - A regret you have, a weakness in your technique
 Scars are negative aspects that tell the story of your past failures. They can be mental, emotional, or physical.
 - An insecurity (someone you couldn't save, someone you pushed away, a goal that slipped from your grasp, something that you left unsaid, a strange habit, your guilty pleasure, something you wish you were good at)
-- A weakness in your technique (tunnel vision, overwhelmed in melee, easily distracted, an old injury slows you down)
+- A weakness in your technique (tunnel vision, overwhelmed in melee, easily distracted, an old injury slows you down, easily distracted by product placement)
 
 Rate one Scar at a d8 and the other at a d6
 
@@ -142,28 +148,37 @@ Potential names for Styles/Powers:
 
 Glam:
 - The Disciplined: Eat. Breath. Fight. No gimmicks or tricks, just strength, skill, and determination
+  - Enough Games! Clear any assets dX or lower in this zone
+  - Channeled Qi: Extend your range by 1 and gain a dX qi asset for this attack
 - The Spectacle: All fights need to have some flair, use flashy moves, and unique takedowns to turn every battle into a show
+- The Acrobat: Use expert mobility and dexterity to overwhelm your opponents
 - The Monstrous: Alter your body to unleash its full potential
 - The Swarm: Summon an army that fights at your command
 - The Mastermind: Brains over Brawn. Everyone has a weakness, find your enemies and crush them with it
 - The Deceptive: Nothing is what it seems. Use shadows, decoys, smoke, and mirrors to get into your opponents head
 - The Inspiring: Bolster your allies and use coordinated attacks to take down your enemies
 - The Toxic: Winning quickly is no fun, slow and weaken your enemies, then wait for them to beg for your mercy
+- The Crazed?: Gain strength from taking a beating
 
-Your glam is your fighting style, and also the reason people become your fans.
+Your glam is your fighting style, and also the reason people become your fans. Grants 4 Special Techniques
 
 Weapons:
- - Staff
-  - A staff or spear, reach weapon
- - Blade
-  - Sword, Dagger, or other short bladed weapon
- - Bludgeon
-  - Hammer, club mace, or other short blunt weapon
- - Hook
-  - Kusarigama, fishing pole, giant crochet hook, or other hooked weapon
- - Inferno
-  - Torch, Lantern, Lighter, or innate source of fire
- - Fist
-  - Brass Knuckles, Hand Wraps, Boxing Gloves, or your bare hands
- - 
-Weapons come with 3 special techniques. 
+ - Staff (A staff or spear, reach weapon)
+  - Stay Back!: Keep multiple enemies at a distance
+  - Vault: Use your weapon to increase your mobility
+ - Blade (Sword, Dagger, or other short bladed weapon)
+  - Dash Slash: Run past your opponent and slash through their defenses
+  - Cleave: Damage an opponents weapon
+ - Bludgeon (Hammer, club mace, Frying Pan or other short blunt weapon)
+  - Bonk: Hit your opponent on the head, stunning them. Skips their next turn
+  - Get Back!: Knock an enemy into an adjacent zone
+ - Hook (Kusarigama, fishing pole, giant crochet hook, shepherds crook, or other hooked weapon)
+  - Come Here: Move an opponent 1 zone towards you
+  - Watch your step: Trip your opponent, they must make a move action to get up
+ - Inferno (Torch, Lantern, Lighter, or innate source of fire)
+  - Can't Touch This: Light yourself on fire, granting you a dX bonus to attack and defense against enemies in the same zone. Degrades by 1 die size per turn
+  - Blaze: Set a zone on fire. Creates a dX asset in the zone. Becomes a hazard in flammable zones, does not work in zones with no flammable material
+ - Fist (Brass Knuckles, Hand Wraps, Boxing Gloves, or your bare hands)
+  - Grapple: Make an attack to grapple with an opponent. Your opponent must break the grapple before leaving this zone, and cannot use their weapon while grappled
+  - Flurry: After an attack, make an additional attack with a dX asset
+Weapons come with 2 special techniques. 

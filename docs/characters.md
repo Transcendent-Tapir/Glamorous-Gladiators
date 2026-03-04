@@ -169,10 +169,10 @@ Glam:
 Your glam is your fighting style, and also the reason people become your fans. Grants 4 Special Techniques
 
 Weapons:
- - Staff (A staff or spear, reach weapon)
+ - Staff (A staff, spear, mop, or other pole weapon)
   - Stay Back!: Keep multiple enemies at a distance
   - Vault: Use your weapon to increase your mobility
- - Blade (Sword, Dagger, or other short bladed weapon)
+ - Blade (Sword, axe, pizza cutter, or other bladed weapon)
   - Dash Slash: Run past your opponent and slash through their defenses
   - Cleave: Damage an opponents weapon
  - Bludgeon (Hammer, club mace, Frying Pan or other short blunt weapon)
@@ -187,4 +187,8 @@ Weapons:
  - Fist (Brass Knuckles, Hand Wraps, Boxing Gloves, or your bare hands)
   - Grapple: Make an attack to grapple with an opponent. Your opponent must break the grapple before leaving this zone, and cannot use their weapon while grappled
   - Flurry: After an attack, make an additional attack with a dX asset
+- sniper (bow, sling, paper airplanes) 
+  - ricochet: shoot around one obstacle
+- thrown (throwing knives, rope dart, cutlery, shards of glass)
+  - pin opponent to ground or wall
 Weapons come with 2 special techniques. 

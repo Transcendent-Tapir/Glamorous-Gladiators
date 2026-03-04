@@ -39,3 +39,19 @@ All actions can be done twice on the same turn, with the exception of Hold a Zon
 No action is tied to any specific stat. How you do something matters just a much as what you're doing, so if there is an obstacle of a swamp that would hinder your movement, a Force approach might mean wading through the water, a Finesse approach might involve jumping from tree to tree, and a Focus approach might involve looking for a vine to swing from.
 
 At the end of your turn, you choose an ally or opponent who has not gone this round to go next.
+
+**Spark**
+
+Spark is gained whenever you take any kind of Stress. Spark can be spent to enhance your rolls.
+Spend one Spark to
+- Increase your Kin or Background Die
+- Use a Hazard to your advantage
+- Activate a Special Technique
+
+**Special Techniques**
+
+Special Techniques are advanced actions you can take under certain conditions. They may activate after you land an attack, when you have a certain advantage, etc. To do a special technique you must meet the activation requirement. If your special technique is an attack, you must be able to attack your target. If your special technique is a movement, you must not be immobilized. 
+
+Each Special Technique has a die rating. The die rating lowers each time the Special Technique is used, and is restored to its original value after a rest. If it is lowered below a d4, the Special Technique is no longer usable. Many Special Techniques reference the current die value as dX. e.g. create a dX asset would mean create an asset equal to the current die rating of the Special Technique.
+
+You can spend Spark to activate a special technique outside of its normal parameters. Special Techniques activated in this way always use a dX equal to their original value. Even with Spark, Special Techniques cannot be activated once lowered below a d4.

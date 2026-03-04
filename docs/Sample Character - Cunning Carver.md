@@ -1,7 +1,7 @@
 ---
 title: Cunning Carver
-nav_order: 7
-parent: Characters
+#nav_order: 7
+#parent: Characters
 ---
 <script>
 if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {

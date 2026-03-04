@@ -91,27 +91,27 @@ Your glam is your fighting style, and also the reason people become your fans. G
 
 Weapons:
  - Staff (A staff, spear, mop, or other pole weapon)
-  - Stay Back!: Keep multiple enemies at a distance
-  - Vault: Use your weapon to increase your mobility
+   - Stay Back!: Keep multiple enemies at a distance
+   - Vault: Use your weapon to increase your mobility
  - Blade (Sword, axe, pizza cutter, or other bladed weapon)
-  - Dash Slash: Run past your opponent and slash through their defenses
-  - Cleave: Damage an opponents weapon
+   - Dash Slash: Run past your opponent and slash through their defenses
+   - Cleave: Damage an opponents weapon
  - Bludgeon (Hammer, club mace, Frying Pan or other short blunt weapon)
-  - Bonk: Hit your opponent on the head, stunning them. Skips their next turn
-  - Get Back!: Knock an enemy into an adjacent zone
+   - Bonk: Hit your opponent on the head, stunning them. Skips their next turn
+   - Get Back!: Knock an enemy into an adjacent zone
  - Hook (Kusarigama, fishing pole, giant crochet hook, shepherds crook, or other hooked weapon)
-  - Come Here: Move an opponent 1 zone towards you
-  - Watch your step: Trip your opponent, they must make a move action to get up
+   - Come Here: Move an opponent 1 zone towards you
+   - Watch your step: Trip your opponent, they must make a move action to get up
  - Inferno (Torch, Lantern, Matches, or other source of fire)
-  - Can't Touch This: Light yourself on fire, granting you a dX bonus to attack and defense against enemies in the same zone. Degrades by 1 die size per turn
-  - Blaze: Set a zone on fire. Creates a dX asset in the zone. Becomes a hazard in flammable zones, does not work in zones with no flammable material
+   - Can't Touch This: Light yourself on fire, granting you a dX bonus to attack and defense against enemies in the same zone. Degrades by 1 die size per turn
+   - Blaze: Set a zone on fire. Creates a dX asset in the zone. Becomes a hazard in flammable zones, does not work in zones with no flammable material
  - Fist (Brass Knuckles, Hand Wraps, Boxing Gloves, or your bare hands)
-  - Grapple: Make an attack to grapple with an opponent. Your opponent must break the grapple before leaving this zone, and cannot use their weapon while grappled
-  - Flurry: After an attack, make an additional attack with a dX asset
+   - Grapple: Make an attack to grapple with an opponent. Your opponent must break the grapple before leaving this zone, and cannot use their weapon while grappled
+   - Flurry: After an attack, make an additional attack with a dX asset
 - sniper (bow, sling, paper airplanes) 
-  - Ricochet: shoot around one obstacle
-  - Don't Move: create a dX asset that can be used against an enemy by your or an ally when that enemy tries to make a move or attack action
+   - Ricochet: shoot around one obstacle
+   - Don't Move: create a dX asset that can be used against an enemy by your or an ally when that enemy tries to make a move or attack action
 - thrown (throwing knives, rope dart, cutlery, shards of glass)
-  - pin opponent to ground or wall
-  - move and attack multiple enemies in your zone (one per die size)
+   - pin opponent to ground or wall
+   - move and attack multiple enemies in your zone (one per die size)
 Weapons come with 2 special techniques. 

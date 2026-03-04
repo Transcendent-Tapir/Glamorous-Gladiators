@@ -80,12 +80,13 @@ Glam:
   - Signature Finish: gain a bonus dX against enemy with stress die above dX or minion rated below dX
 - The Acrobat: Use expert mobility and dexterity to overwhelm your opponents
 - The Monstrous: Alter your body to unleash its full potential
+- The Toxic: Winning quickly is no fun, slow and weaken your enemies, then wait for them to beg for your mercy
+- The Deceptive: Nothing is what it seems. Use shadows, decoys, smoke, and mirrors to get into your opponents head
+
+- The Inspiring: Bolster your allies and use coordinated attacks to take down your enemies
 - The Swarm: Summon an army that fights at your command
 - The Mastermind: Brains over Brawn. Everyone has a weakness, find your enemies and crush them with it
-- The Deceptive: Nothing is what it seems. Use shadows, decoys, smoke, and mirrors to get into your opponents head
-- The Inspiring: Bolster your allies and use coordinated attacks to take down your enemies
-- The Toxic: Winning quickly is no fun, slow and weaken your enemies, then wait for them to beg for your mercy
-- The Crazed?: Gain strength from taking a beating
+- The Beserker: Gain strength from taking a beating
 
 Your glam is your fighting style, and also the reason people become your fans. Grants 4 Special Techniques
 

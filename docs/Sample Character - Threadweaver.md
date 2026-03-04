@@ -1,7 +1,7 @@
 ---
 title: Threadweaver
-nav_order: 8
-parent: Characters
+#nav_order: 8
+#parent: Characters
 ---
 <script>
 if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {

@@ -27,4 +27,6 @@ Cost | Reward
 
 Spending Stride during an interaction allows you to add the newly unlocked or upgraded die to your pool twice.
 
-Weapons do not upgrade with Stride, instead they are upgraded through working with a weaponsmith or being rewarded with a new weapon. This also allows for magical upgrades that work akin to special techniques. These special upgrades are tied to the weapon and will be lost if the weapon is lost.
+Weapons do not upgrade with Stride, instead they are upgraded through working with a weaponsmith or being rewarded with a new weapon. This also allows for magical upgrades that work akin to special techniques. These special upgrades are tied to the weapon and will be lost if the weapon is lost. 
+
+Special Upgrades are enchantments or magical artifacts you can attach to your weapon for additional Special Techniques

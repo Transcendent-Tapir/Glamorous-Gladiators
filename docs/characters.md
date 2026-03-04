@@ -41,14 +41,12 @@ Specialist   | d10,d6,d4
   - Harm: Scattered?
 - Finesse - Fast and precise movement
   - Harm: Sluggish?
-- ~~Fire - Sheer determination~~
-  - ~~Harm: Spineless?~~
 
 **Strengths** 
 
 Strengths are positive aspects that help define your character, you start with 3 Strengths
 
-- ~~Your fighting style (Aggressive Brawler, Efficient Duelist, Cocky Ranged Specialist, Cool headed Shield user)~~ replace with Archetype/Glam
+- Glam
 - Kin (+1 die size for each kin element that's beneficial, -1 for each that is harmful)
   - Elephant: Large, Leathery Skin, Tusks, Trunk
   - Ram: Medium, Horns, Hooves, Powerful Legs
@@ -57,11 +55,10 @@ Strengths are positive aspects that help define your character, you start with 3
   - Wolf: Medium, Nose, Teeth, Thick Fur Coat
   - Tree: Large, Tough Bark, Photosynthesizes, Roots
 - Background (+1 die size for each background element that's beneficial, -1 for each that is harmful) 
-    - Home (Steppes, Desert, Coast, Forest)
+  - Home (Steppes, Desert, Coast, Forest)
   - Former Profession (Farmer, Alchemist, Con Artist, Fisherman, etc)
   - Disposition (Aggressive, Cocky, Suave, Calculating, Passionate, etc)
   - Your Drive: Why you became a gladiator (to avenge someone, to save someone, to escape, to find a purpose, to become a protector)
-- ~~Your reason for fighting (to learn more about the world, to avenge someone you love, to find a purpose in life, to be the best there is)~~
 - Your Reputation (based off your current quest & sponsor level, replaced with Motivation when persuing personal quest)
 
 Rate one Strength at a d8 and the others at a d6.
@@ -74,77 +71,15 @@ Scars are negative aspects that tell the story of your past failures. They can b
 Rate one Scar at a d8 and the other at a d6
 
 **Supplies** 
-~~- Your Signature Weapon (sword, throwing stars, frying pan, lance, ballista, dancing shoes, these hands)~~
-~~- Your Signature Tool (grappling hook, spellbook, blade oils, lockpicks, tome of world history, collapsible telescope, medicinal herbs)~~
+
 - Your weapon
-- 
 - various temporary assets such as potions, rations, rope, etc (given by sponsor)
 
 Rate one of your signature assets at a d8, and the other at a d6. Temporary assets are always rated at d6. Temporary Assets are only usable for 1 scene.
 
-**Additional trait: Special Techniques** - special fighting techniques that can be used under certain conditions OR by spending Spark, they should follow a theme of some kind.
+**Glam**
 
-Special techniques relate to what your fighting style is and what weapon you wield. You can start with one special technique at a d8, or with 2 special techniques rated d4 and d6.
-
-Special techniques are lowered by one die size after use. Special techniques below a d4 are unusable. Spending Spark to activate a special technique always uses the full die size.
-
-Some things that special techniques can allow you to do:
-
-- Move more quickly or more stealthily (e.g. ninja step, usable when in darkness or obscuered by smoke)
-- Attack from a non-optimal range (e.g. heavenly slash, usable when using a close weapon in reach or projectile range)
-- Attack more effectively (e.g. gatling gut punch, use in close range)
-- Apply specialized effects or damage with attacks (e.g. Phoenix Strike applies the Burning condition)
-- Disable an opponent (e.g. Medusa's stare applies the "Flesh to stone" condition)
-- More effectively defend yourself or others (e.g. Impossible Reflexes is used to deflect attacks from outside of your range)
-- Motivate, heal, or energize yourself or others (e.g. Inspiring Chant boosts allies attacks)
-- Create assets like decoys, walls, or traps (e.g. Illusory Assailants creates an illusion asset that charges at opponents)
-
-All of these things take the form of adding more dice to your pool, raising a die in your pool, creating scene assets for anyone to use, dealing harm to enemies, or creating conditions on enemies. 
-
-Some conditions for activating a special technique might be:
-
-- Spend a Spark
-- Anytime, but with a limit on the number of uses
-- When a harm die is above a certain threshold
-- When the stat you're using is lower than the enemies die
-- When you are surrounded
-- When you are in a specific environment such as standing in water or near stone
-- When you are behind an enemy
-- When you apply a symbol on someone
-- When you eat something specific
-- When a specific person you care about is in danger
-- When you have a height advantage on your opponent
-- When your opponent has a range advantage on you
-- When your opponent has a range disadvantage on you
-
-Be sure to tie your special techniques to your glam. If you like to use range and remain untoched, a special technique to retreat while attacking could be useful. Or if your glam is related to strength, the ability to take a large hit and keep going would be thematic.
-
-Types of Powers to inspire your glam or special techniques:
-- Physically altered bodies
-  - Monstrous (Beastial form, extra limbs, spikes with psychedelic venom)
-  - Mechanical (gun-arm, robo-eyes, chainsaw-kicks)
-  - Enchanted (physically more powerful, elemental effects, glowing etc)
-  - Shapeshifting (stretching, squashing, growing, shrinking, etc)
-- Manifestations of the soul
-  - Energy weapons (Ki blasts, summoned sword, cursed footprints)
-  - Spritual beings(Channeling ancestral spirits, summoning spirit allies, projecting your spirit outside of your body)
-- Elemental control (fire, air, water, electricity, etc)
-- Physics manipulation (time, space, gravity, etc)
-- Manipulation of senses or emotions (Make someone to sad or empathetic to fight, Create disctrations with auditory or visual illusions)
-- Magically enhancing your allies (Enhance the force of their attacks, the speed of their movement, or their natural armor)
-- Copying the ablities of animals (Polar bear strength, Falcom speed, spider monkey agility)
-- Strange bodily secretions (Hot wax, sticky sweat, acidic blood)
-- Writing/Art that can alter reality (tattoos, paintings, blessed macrame)
-
-Potential names for Styles/Powers:
-- Double Trouble (creating clones or illusions of yourself)
-- Qi Strike (charging up a single strike with powerful energies)
-- Everything is a weapon (specialized in being able to utilize the environment and improvised weapons)
-- I am but a vessel (Channeling a greater power from the elements or a god that you worship)
-- Absolute Mastery (Specializing in a singular weapon with mostly "mundane" abilities)
-- Marked for greatness (Using marks such as runes, tattoos, or painted symbols to produce powerful effects)
-- Adapt. Evolve. Overcome (Altering your body with magic or technology to empower yourself)
-- Tortured Artist (Use an artform like sculpting, painting, drawing, or crochet to create field assets or capture enemies)
+Your Glam defines your approach to combat and why people choose to watch you over other gladiators. Your glam has a die rating that you can use outside of combat. It also defines the maximum die rating of the associated Special Techniques
 
 Glam:
 - The Disciplined: Eat. Breath. Fight. No gimmicks or tricks, just strength, skill, and determination
@@ -155,7 +90,7 @@ Glam:
 - The Spectacle: All fights need to have some flair, use flashy moves, and unique takedowns to turn every battle into a show
   - This move is sponsored by: Increase the die size of any supply
   - HYPE TRAIN: When you inflict stress, gain a dX asset. Asset loses one die size each turn. Expires when reduced beyond d4 or when you fail to inflict stress on your turn
-  - {name tbd}: Increase the die size of a scene asset
+  - Use Every Advantage: Increase the die size of a scene asset
   - Signature Finish: gain a bonus dX against enemy with stress die above dX or minion rated below dX
 - The Acrobat: Use expert mobility and dexterity to overwhelm your opponents
 - The Monstrous: Alter your body to unleash its full potential
@@ -181,14 +116,16 @@ Weapons:
  - Hook (Kusarigama, fishing pole, giant crochet hook, shepherds crook, or other hooked weapon)
   - Come Here: Move an opponent 1 zone towards you
   - Watch your step: Trip your opponent, they must make a move action to get up
- - Inferno (Torch, Lantern, Lighter, or innate source of fire)
+ - Inferno (Torch, Lantern, Matches, or other source of fire)
   - Can't Touch This: Light yourself on fire, granting you a dX bonus to attack and defense against enemies in the same zone. Degrades by 1 die size per turn
   - Blaze: Set a zone on fire. Creates a dX asset in the zone. Becomes a hazard in flammable zones, does not work in zones with no flammable material
  - Fist (Brass Knuckles, Hand Wraps, Boxing Gloves, or your bare hands)
   - Grapple: Make an attack to grapple with an opponent. Your opponent must break the grapple before leaving this zone, and cannot use their weapon while grappled
   - Flurry: After an attack, make an additional attack with a dX asset
 - sniper (bow, sling, paper airplanes) 
-  - ricochet: shoot around one obstacle
+  - Ricochet: shoot around one obstacle
+  - Don't Move: create a dX asset that can be used against an enemy by your or an ally when that enemy tries to make a move or attack action
 - thrown (throwing knives, rope dart, cutlery, shards of glass)
   - pin opponent to ground or wall
+  - move and attack multiple enemies in your zone (one per die size)
 Weapons come with 2 special techniques. 

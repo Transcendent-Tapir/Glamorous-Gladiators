@@ -1,5 +1,5 @@
 ---
-title: Cunning Carver
+#title: Cunning Carver
 #nav_order: 7
 #parent: Characters
 ---

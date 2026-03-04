@@ -36,4 +36,6 @@ On each turn, you can do 2 actions. Actions include:
 
 All actions can be done twice on the same turn, with the exception of Hold a Zone. If you would like to create two opportunities, add both potential Opportunities to the opposing pool and make a singular roll. This still counts as 2 actions. 
 
+No action is tied to any specific stat. How you do something matters just a much as what you're doing, so if there is an obstacle of a swamp that would hinder your movement, a Force approach might mean wading through the water, a Finesse approach might involve jumping from tree to tree, and a Focus approach might involve looking for a vine to swing from.
+
 At the end of your turn, you choose an ally or opponent who has not gone this round to go next.

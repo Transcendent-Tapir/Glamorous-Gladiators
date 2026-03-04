@@ -68,3 +68,19 @@ Potential names for Styles/Powers:
 - Marked for greatness (Using marks such as runes, tattoos, or painted symbols to produce powerful effects)
 - Adapt. Evolve. Overcome (Altering your body with magic or technology to empower yourself)
 - Tortured Artist (Use an artform like sculpting, painting, drawing, or crochet to create field assets or capture enemies)
+
+**Glam**
+
+Every Gladiator is Glamorous, though what that means will vary from person to person. Glamor isn't something tied to a single number or stat, it's reflected in everything a character does. 
+
+A fundamental question that for every Gladiator is: What does glam mean to you?
+
+You can answer this before character creation and use it to inform your stats, aspects, assets, and special techniques. Or you can go through and generate those character traits first, and use them to inspire what your Gladiator might find Glam.
+
+Some options for Glam might include:
+- Pure brute strength
+- Dancing around your opponents
+- Outsmarting everyone and getting them to fall right into your traps
+- The transformative power of radioactive mutation
+- Being completely untouched by those unworthy, which includes nearly everyone
+- Simple Efficiency

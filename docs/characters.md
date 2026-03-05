@@ -30,9 +30,9 @@ Specialist   | d10,d6,d4
 
 **Strengths** 
 
-Strengths are positive aspects that help define your character, you start with 3 Strengths
+Strengths are positive aspects that help define your character, you start with 4 Strengths
 
-- Glam
+- Glam (Select a Glam from the list below. Glam starts with a rating of a d8)
 - Kin (+1 die size for each kin element that's beneficial, -1 for each that is harmful)
   - Elephant: Large, Leathery Skin, Tusks, Trunk
   - Ram: Medium, Horns, Hooves, Powerful Legs
@@ -46,8 +46,8 @@ Strengths are positive aspects that help define your character, you start with 3
   - Disposition (Aggressive, Cocky, Suave, Calculating, Passionate, etc)
   - Your Drive: Why you became a gladiator (to avenge someone, to save someone, to escape, to find a purpose, to become a protector)
 - Your Reputation (based off your current quest & sponsor level, replaced with Motivation when persuing personal quest)
-
-Rate one Strength at a d8 and the others at a d6.
+  - Create your personal quest. What are you working towards, who are you fighting for?
+  - Some Examples: Trying to buy back the family farm from a royal. Finding a cure for your sick mother. Searching for your missing childhood best friend. Keeping a promise to someone you lost 
 
 **Scars** - A regret you have, a weakness in your technique
 Scars are negative aspects that tell the story of your past failures. They can be mental, emotional, or physical.
@@ -117,3 +117,7 @@ Weapons:
    - Tactical Retreate: move and attack multiple enemies in your zone (one per die size)
 
 Weapons come with 2 special techniques. Choose one weapon
+
+**Special Techniques**
+
+You start with two Special Techniques, chosen from the combined list of your Weapon and your Glam. Eventually you can unlock all Special Techniques from your Weapon and Glam, and additional Special Techniques can be gained as Quest Rewards.

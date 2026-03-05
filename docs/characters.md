@@ -39,7 +39,7 @@ Strengths are positive aspects that help define your character, you have 4 Stren
   - Songbird: Small, Singing Voice, Wings, Taloned Feet
   - Beetle: Small, Exoskeleton, Adhesive Feet, Extra Limbs
   - Wolf: Medium, Nose, Teeth, Thick Fur Coat
-  - Tree: Large, Tough Bark, Photosynthesizes, Roots
+  - Gator: Large, Rudder Tail, Cold Blooded, Jaws
 - Background (+1 die size for each background element that's beneficial, -1 for each that is harmful) 
   - Home (Steppes, Desert, Coast, Forest)
   - Former Profession (Farmer, Alchemist, Con Artist, Fisherman, etc)

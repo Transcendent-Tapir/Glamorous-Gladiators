@@ -21,9 +21,11 @@ Stride allows you to upgrade your character
 Cost | Reward
 -: | :-
 1 | Unlock a new D6 Special Technique, Upgrade a stat or aspect from d4 to d6
-2 | Upgrade a stat, aspect or special technique from d6 to d8
-3 | Upgrade a stat, aspect, or special technique from d8 to d10
-4 | Upgrade a stat, aspect, or special technique from d10 to d12
+2 | Upgrade a stat, glam, or special technique from d6 to d8
+3 | Upgrade a stat, glam, or special technique from d8 to d10
+4 | Upgrade a stat, glam, or special technique from d10 to d12
+
+When Upgrading Special Techniques, the Special Technique die cannot be larger than the Glam or Weapon it is attached to. So if your Glam is d10, the highest a Special Technique can be is also a d10
 
 Spending Stride during an interaction allows you to add the newly unlocked or upgraded die to your pool twice.
 

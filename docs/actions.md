@@ -47,6 +47,7 @@ Spend one Spark to
 - Increase your Kin or Background Die
 - Use a Hazard to your advantage
 - Activate a Special Technique
+- Take Advantage of an opponents Scar
 
 **Special Techniques**
 

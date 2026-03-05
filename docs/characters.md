@@ -120,4 +120,6 @@ Weapons come with 2 special techniques. Choose one weapon
 
 **Special Techniques**
 
-You start with two Special Techniques, chosen from the combined list of your Weapon and your Glam. Eventually you can unlock all Special Techniques from your Weapon and Glam, and additional Special Techniques can be gained as Quest Rewards.
+You start with two Special Techniques, chosen from the combined list of your Weapon and your Glam. Rate one at a d8 and the other at a d6.
+
+Eventually you can unlock all Special Techniques from your Weapon and Glam, and additional Special Techniques can be gained as Quest Rewards.

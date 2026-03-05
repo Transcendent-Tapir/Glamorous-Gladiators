@@ -52,7 +52,7 @@ Strengths are positive aspects that help define your character, you have 4 Stren
 **Scars** - A regret you have, a weakness in your technique
 Scars are negative aspects that tell the story of your past failures. They can be mental, emotional, or physical.
 - An insecurity (someone you couldn't save, someone you pushed away, a goal that slipped from your grasp, something that you left unsaid, a strange habit, your guilty pleasure, something you wish you were good at)
-- A weakness in your technique (tunnel vision, overwhelmed in melee, easily distracted, an old injury slows you down, easily distracted by product placement)
+- A weakness in your technique (tunnel vision, overwhelmed in melee, easily distracted, an old injury slows you down, hates product placement, weak to environmental hazards)
 
 Rate one Scar at a d8 and the other at a d6
 

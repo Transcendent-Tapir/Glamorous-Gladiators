@@ -49,19 +49,14 @@ Strengths are positive aspects that help define your character, you have 4 Stren
   - Create your personal quest. What are you working towards, who are you fighting for?
   - Some Examples: Trying to buy back the family farm from a royal. Finding a cure for your sick mother. Searching for your missing childhood best friend. Keeping a promise to someone you lost 
 
-**Scars** - A regret you have, a weakness in your technique
+**Scars** 
+
 Scars are negative aspects that tell the story of your past failures. They can be mental, emotional, or physical.
+
 - An insecurity (someone you couldn't save, someone you pushed away, a goal that slipped from your grasp, something that you left unsaid, a strange habit, your guilty pleasure, something you wish you were good at)
 - A weakness in your technique (tunnel vision, overwhelmed in melee, easily distracted, an old injury slows you down, hates product placement, weak to environmental hazards)
 
 Rate one Scar at a d8 and the other at a d6
-
-**Supplies** 
-
-- Your weapon
-- various temporary assets such as potions, rations, rope, etc (given by sponsor)
-
-Rate one of your signature assets at a d8, and the other at a d6. Temporary assets are always rated at d6. Temporary Assets are only usable for 1 scene.
 
 **Glam**
 

@@ -36,7 +36,7 @@ Strengths are positive aspects that help define your character, you have 4 Stren
 - Kin (+1 die size for each kin element that's beneficial, -1 for each that is harmful)
   - Elephant: Large, Leathery Skin, Tusks, Trunk
   - Ram: Medium, Horns, Hooves, Powerful Legs
-  - Bird: Small, Feathers, Wings, Taloned Feet
+  - Songbird: Small, Singing Voice, Wings, Taloned Feet
   - Beetle: Small, Exoskeleton, Adhesive Feet, Extra Limbs
   - Wolf: Medium, Nose, Teeth, Thick Fur Coat
   - Tree: Large, Tough Bark, Photosynthesizes, Roots

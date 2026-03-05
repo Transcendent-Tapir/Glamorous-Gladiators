@@ -30,7 +30,7 @@ Specialist   | d10,d6,d4
 
 **Strengths** 
 
-Strengths are positive aspects that help define your character, you start with 4 Strengths
+Strengths are positive aspects that help define your character, you have 4 Strengths
 
 - Glam (Select a Glam from the list below. Glam starts with a rating of a d8)
 - Kin (+1 die size for each kin element that's beneficial, -1 for each that is harmful)

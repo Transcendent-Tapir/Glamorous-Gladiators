@@ -71,7 +71,7 @@ Glam:
 - The Spectacle: All fights need to have some flair, use flashy moves, and unique takedowns to turn every battle into a show
   - This move is sponsored by: Increase the die size of any supply
   - HYPE TRAIN: When you inflict stress, gain a dX asset. Asset loses one die size each turn. Expires when reduced beyond d4 or when you fail to inflict stress on your turn
-  - Use Every Advantage: Increase the die size of a scene asset
+  - From the top rope: Increase the die size of a scene asset
   - Signature Finish: gain a bonus dX when attacking an enemy rated below dX
 - The Acrobat: Use expert mobility and dexterity to overwhelm your opponents
 - The Monstrous: Alter your body to unleash its full potential

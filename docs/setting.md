@@ -10,6 +10,8 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 
 ## Mooreth: The Lonely Peninsula
 
+*Setting details to be updated*
+
 While you are free (and encouraged!) to create your own setting for Glamorous Gladiators, it comes with a default setting: 
 A wondrous technomagical setting known as Mooreth: The lonely peninsula. It contains a number of biomes, contains technology like engines and firearms, powered by both magic and familiar technology like steam engines and gunpowder.
 

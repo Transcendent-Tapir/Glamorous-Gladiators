@@ -27,6 +27,8 @@ All Obstacles, Enemies, and NPCs are made of dice. They will have a base die rat
 
 Below is a sample of some enemies you might come across in Mooreth.
 
+*sample enemies go here*
+
 ### Spark
 
 GMs also have Spark. It can be spent on Special Techniques and Gladiator Scars. The GM starts with 1 Spark for each Gladiator at the table, with a maximum of 10 Spark. GM Spark cannot be converted to Stride, if the GM wants to upgrade an enemy, they can do so between sessions.

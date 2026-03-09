@@ -1,3 +1,9 @@
+---
+title: The Glam Master
+nav_order: 8
+---
+
+The Glam Master, or GM for short, is the player that is in charge of the world and NPCs. They create tension by creating drama and challenges for the Gladiators. The GM should be a fan of the Gladiators, but should never go easy on them, never be afraid to test them and force them to get creative to overcome obstacles.
 
 ### Sponsors
 

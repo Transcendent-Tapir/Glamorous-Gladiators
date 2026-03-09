@@ -1,6 +1,7 @@
 ---
-# Title: Deleted notes
-# This contains text that has previously been removed. It is included as some of these ideas may be fleshed out or referenced as the game continues to develop
+#title: Deleted notes
+#description: This contains text that has previously been removed. It is included as some of these ideas may be fleshed out or referenced as the game continues to develop
+#parent: Glamorous Gladiators
 ---
 # Character
 

@@ -20,15 +20,18 @@ Harm is dealt to Stress tracks, each one tied to a stat
 
 In addition to standard tracks, Stress can also be dealt as special conditions, and some abilities will target a specific Stress regardless of their opponents approach, such as a special poison ability for an enemy with poison attacks, an entanglement ability always raising sluggish, or illusions that can always target scattered
 
-Your fighting style Strength is used only when you are able to fight in your ideal conditions. If you have to change tactics or fight in unusual conditions, you must spend Spark to use it. 
+Your Glam is used only when you are able to fight in your ideal conditions. If you have to change tactics or fight in unusual conditions, you must spend Spark to use it. 
 
 Special Techniques can be magic spells, power ups, complex movements, enhanced attacks, etc. Notably they can allow you to attack outside of your normal range with your full weapon die.
 
-On each turn, you can do 2 actions. Actions include: 
+Conflict in Glamorous Gladiators falls into 2 categories: Checks and Challenges. Checks are simple obstacles that are resolved in a single roll. Things like trying to open a locked door, jump over a gap, or shut up a random asshole in a bar are all checks. Challenges are extended conflicts. Things like a race, a battle with notable enemies, or a debate are Challenges.
+
+Challenges happen over Turns and Rounds. Each Gladiator and NPC gets a Turn each Round. The character initiating the Challenge gets the first Turn. If that's not clear, all characters in contention of acting first make a Check and the highest result gets the first Turn. This Check has no negative consequences.
+
+On your turn, you can do 2 actions. Actions include: 
 
 - Move: Move to a zone connected to the zone you are in
 - Attack: Make a roll to attack an enemy within your range. You are limited by the number of zones of your weapon and line of sight.
-- Use Your Words: Hype up an ally or get under your opponents skin. Make a roll to lower an allys stress or to raise an opponents stress. Use Your Words cannot be used to take out an enemy
 - Create an Opportunity: When you want to help an ally, roll to create an opportunity. Select the size asset you want to create for your ally and roll against it. On a success you create a one time use Opportunity asset of that die size that lasts until the start of your next turn, it also counts as a condition on you until the end of your next turn. On a failure, reduce the Opportunity asset and raise the condition. On a Heroic success raise the Opportunity asset and lower the condition. Failure and Success with a cost raise your Stress as normal.
 - Hold a Zone: Until your next turn, force any enemies to roll to move into or out of a declared zone within your range.
 - Use a Special Technique: Activate one of your special techniques if you meet the requirements or spend a Spark. Special Techniques that describe an attack or move do not require the use of an additional attack or move action
@@ -42,7 +45,7 @@ At the end of your turn, you choose an ally or opponent who has not gone this ro
 
 **Spark**
 
-Spark is gained whenever you take any kind of Stress. Spark can be spent to enhance your rolls.
+Spark is gained whenever you take any kind of Stress, and when an enemy uses a Scar against you. Spark can be spent to enhance your rolls.
 Spend one Spark to
 - Increase your Kin or Background Die
 - Use a Hazard to your advantage

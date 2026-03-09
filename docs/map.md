@@ -7,7 +7,8 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
     jtd.setTheme('dark')
 }
 </script>
-Combat is broken up into zones, and weapons have ranges that tell you how many zones away you can attack from. Some weapons or special techniques allow you to attack from a further range. You can always defend regarldess of distance. For every zone outside of your weapons preferred range, you lower your weapon die unless a special technique would dictate otherwise.
+
+Challenges are broken up into zones, and weapons have ranges that tell you how many zones away you can attack from. Some weapons or special techniques allow you to attack from a further range. You can always defend regarldess of distance. For every zone outside of your weapons preferred range, you lower your weapon die unless a special technique would dictate otherwise.
 
 Preferred Range is a number that describes the number of zones that a weapon should be used from. 0 is for enemies within the same zone.
 

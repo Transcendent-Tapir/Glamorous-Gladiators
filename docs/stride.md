@@ -8,13 +8,16 @@ if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').match
 }
 </script>
 
-Inspiration and Advancement will be Spark and Stride
+**Spark**
 
-Spark is gained whenever you take on stress, or when one of your scars is triggered.
+Spark is gained whenever you take any kind of Stress, and when an enemy uses a Scar against you. Spark can be spent to enhance your rolls.
+Spend one Spark to
+- Increase your Kin or Background Die
+- Use a Hazard to your advantage
+- Activate a Special Technique
+- Take Advantage of an opponents Scar
 
 You have a maximum of 5 spark. 5 spark can be traded for 1 stride
-
-Spark can be used to activate special techniques, use a strength that is not applicable, target a specific stress track on an opponent, or take advantage of an opponents scar.
 
 Stride allows you to upgrade your character
 

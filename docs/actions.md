@@ -43,15 +43,6 @@ No action is tied to any specific stat. How you do something matters just a much
 
 At the end of your turn, you choose an ally or opponent who has not gone this round to go next.
 
-**Spark**
-
-Spark is gained whenever you take any kind of Stress, and when an enemy uses a Scar against you. Spark can be spent to enhance your rolls.
-Spend one Spark to
-- Increase your Kin or Background Die
-- Use a Hazard to your advantage
-- Activate a Special Technique
-- Take Advantage of an opponents Scar
-
 **Special Techniques**
 
 Special Techniques are advanced actions you can take under certain conditions. They may activate after you land an attack, when you have a certain advantage, etc. To do a special technique you must meet the activation requirement. If your special technique is an attack, you must be able to attack your target. If your special technique is a movement, you must not be immobilized. 

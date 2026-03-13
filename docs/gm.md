@@ -25,6 +25,8 @@ Communities sponsor quests that will help their communities. They're asking the 
 
 All Obstacles, Enemies, and NPCs are made of dice. They will have a base die rating assigned to their name or title, such as d8 Thief, d6 chasm, or d10 Captain Zulon. Enemies and NPCs will also have assets, scars, and sometimes Special Techniques. Usually one asset is their assignment, or what they want. A scar is a fear or a desire that conflicts with their assignment.
 
+When an NPCs have a condition, it can be used as an asset in an opposing pool if it would make sense for their action. If the condition is raised above the level of their base die, they are taken out
+
 Below is a sample of some enemies you might come across in Mooreth.
 
 *sample enemies go here*

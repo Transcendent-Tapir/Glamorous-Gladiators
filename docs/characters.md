@@ -36,12 +36,16 @@ Strengths are positive aspects that help define your character, you have 4 Stren
 - Kin (+1 die size for each kin element that's beneficial, -1 for each that is harmful)
   - Elephant: Large, Leathery Skin, Tusks, Trunk
   - Ram: Medium, Horns, Hooves, Powerful Legs
-  - Songbird: Small, Singing Voice, Wings, Taloned Feet
+  - Songbird: Small, Singing Voice, Wings, Brilliant Coloration
   - Beetle: Small, Exoskeleton, Adhesive Feet, Extra Limbs
   - Wolf: Medium, Nose, Teeth, Thick Fur Coat
   - Gator: Large, Rudder Tail, Cold Blooded, Jaws
+  - Orca: Large, Blowhole, Blubber, Echolocation
+  - Chameleon: Medium, Camouflage, Long Tongue, Prehensile Tail
+  - Spider: Small, Web, Too Many Legs, Venom
+
 - Background (+1 die size for each background element that's beneficial, -1 for each that is harmful) 
-  - Home (Steppes, Desert, Coast, Forest)
+  - Home (Steppe, Desert, Coast, Forest, Mountain, etc)
   - Former Profession (Farmer, Alchemist, Con Artist, Fisherman, etc)
   - Disposition (Aggressive, Cocky, Suave, Calculating, Passionate, etc)
   - Your Drive: Why you became a gladiator (to avenge someone, to save someone, to escape, to find a purpose, to become a protector)
@@ -65,23 +69,35 @@ Your Glam defines your approach to combat and why people choose to watch you ove
 Glam:
 - The Disciplined: Eat. Breath. Fight. No gimmicks or tricks, just strength, skill, and determination
   - Enough Games! Clear any assets dX or lower in this zone
-  - Qi Strike: Extend your range by 1 and gain a dX qi asset for this attack
+  - Qi Strike: Attack up to 1 zone out of your range and gain a dX qi asset for this attack
   - Deep Breathing: Ignore stress or a condition with die dX or lower until your next turn
   - One with your weapon: Increase your weapon by one die level
 - The Spectacle: All fights need to have some flair, use flashy moves, and unique takedowns to turn every battle into a show
   - This move is sponsored by: Increase the die size of any supply
-  - HYPE TRAIN: When you inflict stress, gain a dX asset. Asset loses one die size each turn. Expires when reduced beyond d4 or when you fail to inflict stress on your turn
-  - From the top rope: Increase the die size of a scene asset
+  - HYPE TRAIN: When you inflict stress, gain a dX asset. Asset loses one die size each turn. Expires when reduced beyond d4 or when you fail to inflict stress on your turn. You must attack every turn you have a HYPE TRAIN asset
+  - From the top rope: Increase the die size of a scene asset when using it in an attack
   - Signature Finish: gain a bonus dX when attacking an enemy rated below dX
 - The Acrobat: Use expert mobility and dexterity to overwhelm your opponents
+  - Parkour: Increase the size of a scene asset when using it to move
+  - Hit and Run: After a successful attack, move into an adjacent zone
+  - Don't Blink: Gain a dX asset to move against an enemy holding a zone
+  - Time to Bounce: Move into an adjacent zone after successfully defending an enemy attack
 - The Monstrous: Alter your body to unleash its full potential
+  - Adaptive Immunity: Ignore a hazard, disaster, or condition of dX or lower
+  - Adaptive Mobility: Swap one kin tag for each die level when you make a move action
+  - Adaptive Attack: Swap one kin tag for each die level when you attack
+  - Adaptive Defense: Swap one kin tag for each die level when you defend
 - The Toxic: Winning quickly is no fun, slow and weaken your enemies, then wait for them to beg for your mercy
+  - Venomous coating: This attack applies or increases the Toxin condition
+  - Toxic Gas: Creates a dX hazard in this zone, enemies in this zone increase their Toxin condition instead of stress
+  - Toxic Traps: Hold a zone applies Toxin instead of stress
+  - Finishing blow: If toxin is equal to the enemies base die, gain a dX asset for this attack
 - The Deceptive: Nothing is what it seems. Use shadows, decoys, smoke, and mirrors to get into your opponents head
+  - Deception: Create a dX Deception asset in your zone
+  - Double Decker: After hitting an opponent in a zone with your Deception, make another attack against them
+  - Disappearing Act: Move into an adjacent zone and leave a dX Deception asset behind
+  - If no enemies are in your zone, move into any zone that has one of your Deceptions
 
-- The Inspiring: Bolster your allies and use coordinated attacks to take down your enemies
-- The Swarm: Summon an army that fights at your command
-- The Mastermind: Brains over Brawn. Everyone has a weakness, find your enemies and crush them with it
-- The Beserker: Gain strength from taking a beating
 
 Your glam is your fighting style, and also the reason people become your fans. Grants 4 Special Techniques
 

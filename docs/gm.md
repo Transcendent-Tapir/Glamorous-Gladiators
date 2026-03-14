@@ -29,8 +29,25 @@ When an NPCs have a condition, it can be used as an asset in an opposing pool if
 
 Below is a sample of some enemies you might come across in Mooreth.
 
-*sample enemies go here*
+- 3d6 Swarm - a swarm of vermin
+    - d8 Scar: Hungry. They're driven by food, and the Gladiators can use this to their advantage
+- d8 Bandit - A highwayman, low level gangster, or private security
+    - d6 weapon - usually a blade, staff or bludgeon
+    - d6 scar: false bravado. They come on strong, but will generally flee if they know they're outmatched
+- d10 Beast - Any sort of large terrestrial animal
+    - d6 Natural Armor: Scales, leathery skin, or a thick coat of fur protect the beast
+    - d8 Natural Weapons: Teeth, Hooves, horns, or claws
+    - d8 Scar: Predictable. Animals rely on their instincts, understand that and you'll know exactly what it's next move is
+- d10 Bombadier
+    - d8 Grenades - range: 1 - attacks all enemies in target zone
+    - d8 blast armor
+    - Special Technique: d8 Rocket Jump. When making an attack in your zone, move to an adjacent zone
+    - Scar: Hydrophobia - Wet gunpowder and fuses mean they're defenseless, so water makes them scared and erratic
+- d8 Sharpshooter
+    - d8 Crossbow - range: 2
+    - d6 leather armor
+    - scar: d8 social distancing. Get in their face and they falter
 
 ### Spark
 
-GMs also have Spark. It can be spent on Special Techniques and Gladiator Scars. The GM starts with 1 Spark for each Gladiator at the table, with a maximum of 10 Spark. GM Spark cannot be converted to Stride, if the GM wants to upgrade an enemy, they can do so between sessions.
+GMs also have Spark. It can be spent on Special Techniques and Gladiator Scars. The GM starts each session with 1 Spark for each Gladiator at the table, with a maximum of 10 Spark. GM Spark cannot be converted to Stride, if the GM wants to upgrade an enemy, they can do so between sessions.

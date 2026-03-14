@@ -14,6 +14,6 @@ In the land of Mooreth, Gladiators take on quests that allow Sponsors to see the
 
 Glamorous Gladiators is a distortion dice game about adventurers for hire looking for fame, glory, or vengeance for 2 or more players, one plays the Glam Master, and the rest play Gladiators.
 
-
+*this game is still in development and therefore all rules are subject to change*
 
 

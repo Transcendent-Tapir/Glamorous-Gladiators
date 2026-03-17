@@ -114,3 +114,15 @@ Scenarios:
 - In a dangerous land where people live in protected settlements, you are a team that leaves to gather supplies and trade with other cities
 ~~
 
+
+Below is a guide to inspire if you decide to make your own world. For each row, roll a d4, select one, or simply let the options inspire you
+
+D4 | 1 | 2 | 3 | 4
+:-: | :-: | :-: | :-: | :-:
+Magic is | Rare | Controlled | Abundant | Dangerous
+The Technology level is | Primitive | Industrial | Modern | Futuristic
+The Tone is | Hopeless | Wacky | Adventurous | Horrific
+The Environment is | Wet | Arid | Dark | Artificial
+The Wildlife is | Bloodthirsty | Otherwordly | Misunderstood | Elusive
+The main threat to this world is | Supernatural | Greed | Imminent | Each Other
+Our Gladiators wield | Unusual objects | Ancient Artifacts | Giant Robots | Whatever they can find

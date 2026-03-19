@@ -23,8 +23,8 @@ Powerful people rule over the lands and often take the titles of royalty, such a
 
 
 
-### Sample Cities
+### Cities
 
-### Sample Villages and Towns
+### Villages and Towns
 
-### Sample Points of Interest
+### Points of Interest

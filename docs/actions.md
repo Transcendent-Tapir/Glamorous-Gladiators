@@ -18,7 +18,7 @@ Harm is dealt to Stress tracks, each one tied to a stat
 - Scattered: Focus Stress
 - Sluggish: Finesse Stress
 
-In addition to standard tracks, Stress can also be dealt as special conditions, and some abilities will target a specific Stress regardless of their opponents approach, such as a special poison ability for an enemy with poison attacks, an entanglement ability always raising sluggish, or illusions that can always target scattered
+In addition to standard tracks, Stress can also be dealt as conditions, and some abilities will target a specific Stress regardless of their opponents approach, such as a  poison condition for an enemy with poison attacks, an entanglement ability always raising sluggish, or illusions that can always target scattered
 
 Your Glam is used only when you are able to fight in your ideal conditions. If you have to change tactics or fight in unusual conditions, you must spend Spark to use it. 
 

@@ -25,7 +25,9 @@ Communities sponsor quests that will help their communities. They're asking the 
 
 All Obstacles, Enemies, and NPCs are made of dice. They will have a base die rating assigned to their name or title, such as d8 Thief, d6 chasm, or d10 Captain Zulon. Enemies and NPCs will also have assets, scars, and sometimes Special Techniques. Usually one asset is their assignment, or what they want. A scar is a fear or a desire that conflicts with their assignment.
 
-When an NPCs have a condition, it can be used as an asset in an opposing pool if it would make sense for their action. If the condition is raised above the level of their base die, they are taken out
+When an NPCs have a condition, it can be used as an asset in an opposing pool if it would make sense for their action. If the condition is raised above the level of their base die, they are taken out. If dealing with multiple opponents such as rats, undead, or an angry mob, then reduce the mob by one die when the condition is raised above the base die level, and reset the condition to a d4.
+
+When acting as a major threat or as a swarm, get one extra action per turn.
 
 Below is a sample of some enemies you might come across in Mooreth.
 
@@ -34,7 +36,7 @@ Below is a sample of some enemies you might come across in Mooreth.
 - d8 Bandit - A highwayman, low level gangster, or private security
     - d6 weapon - usually a blade, staff or bludgeon
     - d6 scar: false bravado. They come on strong, but will generally flee if they know they're outmatched
-- d10 Beast - Any sort of large terrestrial animal
+- d10 Beast - Any sort of large sized terrestrial animal such as a dire wolf, hippopotamus, or moose
     - d6 Natural Armor: Scales, leathery skin, or a thick coat of fur protect the beast
     - d8 Natural Weapons: Teeth, Hooves, horns, or claws
     - d8 Scar: Predictable. Animals rely on their instincts, understand that and you'll know exactly what it's next move is
@@ -47,6 +49,23 @@ Below is a sample of some enemies you might come across in Mooreth.
     - d8 Crossbow - range: 2
     - d6 leather armor
     - scar: d8 social distancing. Get in their face and they falter
+- d12 River dragon
+    - d10 scales
+    - d10 water control
+    - d8 territorial
+    - scar: d6 pollution. It's power comes from the water it inhabits
+- d8 mimic. Colony of microscopic creatures that feed on magical energies and tend to inhabit man-made items
+    - d8 camouflage
+    - d6 paralyzing venom
+    - scar: d8 immobile
+- dX Ooze
+    - d6 bouncy
+    - d6 corrosive: damages weapons and armor
+    - special technique: Split. turn into two oozes of a smaller die size. Each new ooze is considered a new creature and will not retain any conditions of the original creature
+- 4d6 undead. a group of zombies
+    - special technique: d8 grasping hands. Hold onto an enemy in this zone and keep them from moving
+    - special technique: reanimate. +1d6 undead
+    - scar: d8 weak joints. Target attacks make them fall apart
 
 ### Spark
 

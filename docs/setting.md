@@ -47,3 +47,12 @@ A tropical wetland
 ### Fluttering Bylands (northeast)
 
 A small peninsula and archipelago with rolling hills, flowering trees, rocky shores, and many fishing towns
+
+### Moon Island Rumors
+
+- It contains a large volcano that could destroy the peninsula at any time
+- It holds the remains of a long lost civilization
+- It has a secret facility where they make giant mutated beasts
+- It is haunted by ancient spirits of incomprehensible power
+- It is home to a cavern containing the worlds most powerful magical gemstones
+- The forest is so thick that the entire island is pitch black, and the trees are carnivorous

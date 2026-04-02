@@ -117,15 +117,18 @@ Weapons:
  - Inferno [Range:0] (Torch, Lantern, Matches, or other source of fire)
    - Can't Touch This: Light yourself on fire, granting you a dX bonus to attack and defense against enemies in the same zone. Degrades by 1 die size per turn
    - Blaze: Set a zone on fire. Creates a dX asset in the zone. Becomes a hazard in flammable zones, does not work in zones with no flammable material
- - Fist [Range:0] (Brass Knuckles, Hand Wraps, Boxing Gloves, or your bare hands)
+ - Fist [Range:0] (Brass Knuckles, Hand Wraps, Boxing Gloves, your bare hands, or other fist weapon)
    - Grapple: Make an attack to grapple with an opponent. Your opponent must break the grapple before leaving this zone, and cannot use their weapon while grappled
    - Flurry: After an attack, make an additional attack with a dX asset
-- Shoot [Range:2] (bow, sling, paper airplanes) 
+- Shoot [Range:2] (bow, sling, paper airplanes, or other long range projectile) 
    - Ricochet: shoot around obstacles. Negates a cover asset, or allows a shot through connected zones without direct line of sight
    - Don't Move: create a dX asset that can be used against an enemy by your or an ally when that enemy tries to make a move or attack action
-- Throwing [Range:1] (throwing knives, rope dart, cutlery, shards of glass)
+- Throwing [Range:1] (throwing knives, rope dart, cutlery, shards of glass, or other short range projectile)
    - Pin: stick opponent to ground or wall. Opponent must overcome a dX immobilize condition in order to move
    - Tactical Retreate: move and attack multiple enemies in your zone (one per die size)
+- Shield [Range:0] (Shield, Turtle Shell, Enchanted Cape, Spider Silk Net, or other defensive item)
+  - I'll Cover You: Gain an dX asset and make defensive rolls in place of all allies within your zone until your next turn
+  - Armored Advance: When an opponent has a range advantage on you, retain your full shield die rating when moving towards them
 
 Weapons come with 2 special techniques. Choose one weapon
 

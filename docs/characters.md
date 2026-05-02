@@ -97,7 +97,16 @@ Glam:
   - Double Decker: After hitting an opponent in a zone with your Deception, make another attack against them
   - Disappearing Act: Move into an adjacent zone and leave a dX Deception asset behind
   - If no enemies are in your zone, move into any zone that has one of your Deceptions
-
+- The Sentry: Utilize superior defenses to hold your ground, protect your allies, and disable enemies
+  - Deflect Arrows: when holding your ground, increase your weapon die. Use this increased weapon die when defending against attacks regardless of distance
+  - Get Behind me: create a dX asset that allies can use when defending in this zone
+  - Disarm: Use an attack to destroy a weapon of size lower than dX. Weapons of dX or higher are taken from the opponent but not destroyed
+  - Bind: Use an attack to inflict a dX immoblize condition on your target
+- The Cultivator: Through herbalism, chloromancy, alchemy, or qi manipulation, you use plants to aid your allies
+   - Healing Salve: create a dX asset to heal yourself or an ally
+   - Thicket: Create a dX plant asset for allies in this zone
+   - Turn a condition of dX or lower into an asset. This asset lowers by 1 die size each turn. This asset allows you to deal stress as the condition it cleared
+   - Wellspring: create a dX wellspring. For as long as wellspring exists, all healing done in this zone is increased  1 die size. Wellspring is reduced by 1 each round
 
 Your glam is your fighting style, and also the reason people become your fans. Grants 4 Special Techniques
 

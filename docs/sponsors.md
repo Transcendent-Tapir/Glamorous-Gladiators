@@ -67,3 +67,18 @@ D8   | Title   | Name      | Industry    | Demeanor
  Every Gladiator has a goal, a reason that they started fighting. This is their personal quest. While persuing your personal quest, you no longer have a Repuation, instead the die is replaced with Motivation. Your Motivation is the equivalent of a sponsor tier, but instead represents how close you are to accomplishing your goals. Your Motivation level can never be higher than the highest sponsor level. Royal sponsors will generally not grant you resources to persue your personal quest unless you do them a favor first. Once your personal quest is complete, this ends your characters story as a Gladiator. When this happens, they retire as a gladiator and can become something else, such as a community organizer, a small business owner, a student, a farmer, or an actress. This character is no longer playable, but can remain in the story as an NPC, and may even be the subject or sponsor of a quest.
 
 ## Sample Sponsors
+
+#### Duke Thistlebottom (He/Him)
+
+Duke Thistlebottom is a wormkin that controls toll bridges and roads in the verdant hills. There's a stretch of the verdant hills that is incredibly difficult to navigate, and this is where the Duke found an opportunity. Using his families wealth, he built roads where there were none before. The roads and bridges provide much quicker access across the mountains and are relied upon by many settlements throughout the verdant hills. However, one must pay to cross them, and there are ever changing rules about what one is and is not allowed to bring with you. On top of that, sections of the path can be so poorly maintained as to be dangerous.
+
+He has recently expanded to have a shipping service as well. Naturally, Thistlebottom shipping does not pay any tolls, and as a result, provides the cheapest shipping in the area.
+
+**Sponsorship**
+
+d4 | d6 | d8 | d10 | d12
+:-: | :-: | :-: | :-: | :-:
+Thistlebottom maps and compass | Thistlebottom employed navigator | Navigator and Survival Guide | Navigator, Guards, Field Medic | Traveling company with navigator, doctor, camp guards |
+Basic Rations | Basic Rations, cheap wine and meals at Thistlebottom properties | Deluxe Rations, meals at most Thistlebottom properties | Travel kitchen with cook and some fresh ingredients |
+Tent and Bedroll | Tent, Bedroll, Occasional lodging at Thistlebottom properties | Tents, Bedrolls, Basic Lodging at all Thistlebottom Properties |
+Rides on Thistlebottom Shipping wagons, when convenient | Guaranteed Rides on certain routes | Rides on most routes, Pack Mule | Rides on all routes, 2 wagons | 

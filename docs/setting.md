@@ -24,13 +24,25 @@ Powerful people rule over the lands and often take the titles of royalty, such a
 
 Steep Rocky peaks with many mining towns, a plateau, and a very large lake
 
+#### The Forge
+
+the largest city in the Iron Highlands. It exists on a plateau in the south-central part of the region. It serves as the entryway to the entire region, with the main road leading here, and many smaller roads leading to the many small mining settlingments throughout the mountains.
+
 ### Verdant Hills (southern mountain range)
 
 shallow peaks, lush valleys and foothills
 
+#### Elico's Peak
+
+A settlement on one of the tallest peaks in the Verdant Hills. Named after the late Emperor Elico, a lumber and mining magnate who founded it. You will find a large temple and several monuments dedicated to them.
+
 ### Glimmering Coast (eastern beaches)
 
 Beautiful sandy beaches full of tourist towns and resorts 
+
+#### Sunlit Sands
+
+The number 1 tourist destination in Mooreth and largest city in the Glimmering Coast
 
 ### Speckled Lowlands (western forest)
 
@@ -39,6 +51,10 @@ A dense lowland wood where the sunlight barely touches the forest floor
 ### Crimson Flat (west-central desert)
 
 A vast desert with reddish sand
+
+#### The Jeweled Throne
+
+An Oasis settlement decorated with crystals
 
 ### Sunset Marsh (southwest)
 

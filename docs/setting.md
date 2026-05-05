@@ -48,6 +48,10 @@ The number 1 tourist destination in Mooreth and largest city in the Glimmering C
 
 A dense lowland wood where the sunlight barely touches the forest floor
 
+#### Twilight Grove
+
+A medium sized settlement in the darkest part of the forest, lit up with bioluminescent fungi and flowers
+
 ### Crimson Flat (west-central desert)
 
 A vast desert with reddish sand
@@ -60,9 +64,17 @@ An Oasis settlement decorated with crystals
 
 A tropical wetland
 
+#### The Jade Flotilla
+
+A wandering city comprised of many boats, the prize of the Marsh and home to most of the Royals of the region
+
 ### Fluttering Bylands (northeast)
 
 A small peninsula and archipelago with rolling hills, flowering trees, rocky shores, and many fishing towns
+
+#### Farhao's Gardens
+
+Founded by farmer Alako Farhao, this northern town is renowned for it's beautiful orchards and flower fields, most of the land is tended by the Farhao family to this day.
 
 ### Moon Island Rumors
 
